@@ -18,6 +18,7 @@
 <a href="eduardoglez64377@gmail.com" target="blank"><img align="center" src="https://mailmeteor.com/logos/assets/PNG/Gmail_Logo_512px.png" height="28" width="35" /></a>
 <a href="https://wa.me/5355839297" target="blank"><img align="center" src="https://static.vecteezy.com/system/resources/previews/022/101/124/original/whatsapp-logo-transparent-free-png.png" height="45" width="45" /></a>
 <a href="@eduardoProfe666" target="blank"><img align="center" src="https://logodownload.org/wp-content/uploads/2017/11/telegram-logo-0-2.png" alt="eduardoprof666" height="45" width="45" /></a>
+<a href="https://www.linkedin.com/in/eduardo-gonzalez-23003628a" target="blank"><img align="center" src="https://static.vecteezy.com/system/resources/previews/018/930/587/original/linkedin-logo-linkedin-icon-transparent-free-png.png" alt="eduardoprof666" height="45" width="45" /></a>
 
 ## 💻 Tecnologías:
 <p align="left">
