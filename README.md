@@ -35,9 +35,9 @@
 </p>
 
 ## 📊 Estadísticas de Github:
-<p align="center"><img src="https://github-readme-stats-sigma-five.vercel.app/api?username=EduardoProfe666&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&show_icons=true"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=EduardoProfe666&theme=tokyonight&hide_border=false"/></p>
-<p align="center"><img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=EduardoProfe666&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact"/></p>
+<p align="center"><img width="48%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=EduardoProfe666&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&show_icons=true"/>
+<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=EduardoProfe666&theme=tokyonight&hide_border=false"/></p>
+<p align="center"><img width="48%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=EduardoProfe666&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact"/></p>
 <p align="center"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=EduardoProfe666&theme=tokyonight" /></p>
 
 ## 🏆 Trofeos de Github:
@@ -45,15 +45,15 @@
 
 ## 🔝 Mejores Repositorios:
 <p align=center>
-  <a href="https://github.com/EduardoProfe666/Proyecto-Api-Personalizada"><img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=EduardoProfe666&repo=Proyecto-Api-Personalizada&theme=tokyonight"/></a>
-  <a href="https://github.com/EduardoProfe666/Cujae13-Proyecto"><img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=EduardoProfe666&repo=Cujae13-Proyecto&theme=tokyonight"/></a>
+  <a href="https://github.com/EduardoProfe666/Proyecto-Api-Personalizada"><img width="48%" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=EduardoProfe666&repo=Proyecto-Api-Personalizada&theme=tokyonight"/></a>
+  <a href="https://github.com/EduardoProfe666/Cujae13-Proyecto"><img width="48%" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=EduardoProfe666&repo=Cujae13-Proyecto&theme=tokyonight"/></a>
 </p>
 <p align=center>
-  <a href="https://github.com/EduardoProfe666/Proyecto-Dpoo"><img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=EduardoProfe666&repo=Proyecto-Dpoo&theme=tokyonight"/></a>
-  <a href="https://github.com/EduardoProfe666/Proyecto-Tinger-y-el-Estambre"><img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=EduardoProfe666&repo=Proyecto-Tinger-y-el-Estambre&theme=tokyonight"/></a>
+  <a href="https://github.com/EduardoProfe666/Proyecto-Dpoo"><img width="48%" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=EduardoProfe666&repo=Proyecto-Dpoo&theme=tokyonight"/></a>
+  <a href="https://github.com/EduardoProfe666/Proyecto-Tinger-y-el-Estambre"><img width="48%" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=EduardoProfe666&repo=Proyecto-Tinger-y-el-Estambre&theme=tokyonight"/></a>
 </p>
 <p align=center>
-  <a href="https://github.com/EduardoProfe666/Proyecto-Final-C"><img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=EduardoProfe666&repo=Proyecto-Final-C&theme=tokyonight"/></a>
+  <a href="https://github.com/EduardoProfe666/Proyecto-Final-C"><img width="48%" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=EduardoProfe666&repo=Proyecto-Final-C&theme=tokyonight"/></a>
 </p>
 
 ## 👀 Visitas
