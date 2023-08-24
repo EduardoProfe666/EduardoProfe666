@@ -29,9 +29,13 @@
 </p>
 
 ## 📊 Estadísticas de Github:
-![](https://github-readme-stats.vercel.app/api?username=EduardoProfe666&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=EduardoProfe666&theme=tokyonight&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=EduardoProfe666&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<div>
+<img width="47%" height="300" src="https://github-readme-stats.vercel.app/api?username=EduardoProfe666&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true"/>
+<img width="48%" height="200" src="https://github-readme-streak-stats.herokuapp.com/?user=EduardoProfe666&theme=tokyonight&hide_border=false"/></div>
+<div>
+<img width="35%" height="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EduardoProfe666&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact"/>
+<img width="60%" height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=EduardoProfe666&theme=tokyonight" />
+</div>
 
 ## 🏆 Trofeos de Github:
 ![](https://github-profile-trophy.vercel.app/?username=EduardoProfe666&theme=tokyonight&no-frame=false&no-bg=false&margin-w=3)
@@ -39,5 +43,7 @@
 ## 🔝 Top de Repositorios:
 ![](https://github-contributor-stats.vercel.app/api?username=EduardoProfe666&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
-## Vistas
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=eduardoprofe666&label=Profile%20views&color=0e75b6&style=flat" alt="eduardoprofe666" /> </p>
+## 📍Visitas
+<p align="center" >   
+  <img src="https://profile-counter.glitch.me/EduardoProfe666/count.svg" />  
+</p>
