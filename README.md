@@ -38,7 +38,7 @@
 <p align="center"><img width="48%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=EduardoProfe666&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&show_icons=true"/>
 <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=EduardoProfe666&theme=tokyonight&hide_border=false"/></p>
 <p align="center"><img width="48%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=EduardoProfe666&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact"/></p>
-<p align="center"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=EduardoProfe666&theme=tokyonight" /></p>
+<p align="center"><img width="80%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=EduardoProfe666&theme=tokyonight" /></p>
 
 ## 🏆 Trofeos de Github:
 ![](https://github-profile-trophy.vercel.app/?username=EduardoProfe666&theme=tokyonight&margin-w=3)
