@@ -46,11 +46,15 @@
 
 ## 🔝 Mejores Repositorios:
 <p align="center">
-<a href="https://github.com/EduardoProfe666/Proyecto-Api-Personalizada"><img width="48%" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=EduardoProfe666&repo=Proyecto-Api-Personalizada&theme=tokyonight"/></a>  <br>
-<a href="https://github.com/EduardoProfe666/Cujae13-Proyecto"><img width="48%" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=EduardoProfe666&repo=Cujae13-Proyecto&theme=tokyonight"/></a><br>
-<a href="https://github.com/EduardoProfe666/Proyecto-Dpoo"><img width="48%" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=EduardoProfe666&repo=Proyecto-Dpoo&theme=tokyonight"/></a><br>
-<a href="https://github.com/EduardoProfe666/Proyecto-Tinger-y-el-Estambre"><img width="48%" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=EduardoProfe666&repo=Proyecto-Tinger-y-el-Estambre&theme=tokyonight"/></a><br>
-<a href="https://github.com/EduardoProfe666/Proyecto-Final-C"><img width="48%" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=EduardoProfe666&repo=Proyecto-Final-C&theme=tokyonight"/></a><br>
+  <a href="https://github.com/EduardoProfe666/Proyecto-Tinger-y-el-Estambre"><img width="48%" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=EduardoProfe666&repo=Proyecto-Tinger-y-el-Estambre&theme=tokyonight"/></a>
+  <a href="https://github.com/EduardoProfe666/Proyecto-Api-Personalizada"><img width="48%" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=EduardoProfe666&repo=Proyecto-Api-Personalizada&theme=tokyonight"/></a>
+</p>
+<p align="center">
+  <a href="https://github.com/EduardoProfe666/Cujae13-Proyecto"><img width="48%" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=EduardoProfe666&repo=Cujae13-Proyecto&theme=tokyonight"/></a>
+</p>
+<p align="center">
+  <a href="https://github.com/EduardoProfe666/Proyecto-Dpoo"><img width="48%" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=EduardoProfe666&repo=Proyecto-Dpoo&theme=tokyonight"/></a>
+  <a href="https://github.com/EduardoProfe666/Proyecto-Final-C"><img width="48%" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=EduardoProfe666&repo=Proyecto-Final-C&theme=tokyonight"/></a>
 </p>
 
 ## 👀 Visitas
