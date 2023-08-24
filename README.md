@@ -15,6 +15,7 @@
 <a href="https://youtube.com/@EduardoProfe666" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="EduardoProfe666" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/eduardoProfe666" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="eduardoprofe666" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/337205" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="323943" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/eduardoprof666" target="blank"><img align="center" src="https://avatars.githubusercontent.com/u/11960354?v=4" alt="eduardoprof666" height="30" width="40" /></a>
 
 ## 💻 Tecnologías:
 <p align="left">
