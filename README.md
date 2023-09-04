@@ -7,7 +7,7 @@
 - ⚡ Tengo experiencia y conocimiento en el desarrollo UI/UX usando Java Swing
 - 🔭 Me fascina desarrollar recursos como apis para poder facilitar el trabajo de los otros desarrolladores
 - 🤝 Me encanta participar en proyectos para aprender y colaborar con conocimiento
-- 🌱 Actualmente estoy aprendiendo **JavaScript, Spring,R,  PostgreSql**
+- 🌱 Actualmente estoy aprendiendo **JavaScript, Spring, R,  PostgreSql**
 
 
 ## 🌐 Contáctame:
