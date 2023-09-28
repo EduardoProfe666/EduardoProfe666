@@ -31,7 +31,7 @@
 <a href="https://www.jetbrains.com/idea/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/1200px-IntelliJ_IDEA_Icon.svg.png" alt="intellij idea" width="40" height="40"/> </a> 
 <a href="https://www.jetbrains.com/pycharm/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/PyCharm_Icon.svg/1200px-PyCharm_Icon.svg.png" alt="pycharm" width="40" height="40"/> </a>
 <a href="https://eclipseide.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.iconscout.com/icon/free/png-256/free-eclipse-14-282371.png?f=webp" alt="eclipse" width="40" height="40"/> </a> 
-<a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.freebiesupply.com/logos/thumbs/2x/visual-studio-code-logo.png" alt="vscode" width="40" height="40"/> </a>   
+<a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" alt="vscode" width="40" height="40"/> </a>   
 <a href="https://doc.qt.io/qtcreator/" target="_blank" rel="noreferrer"> <img src="https://avatars.githubusercontent.com/u/30841581?s=280&v=4" alt="qt creator" width="40" height="40"/> </a> 
 </p>
 
