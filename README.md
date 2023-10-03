@@ -1,5 +1,5 @@
 <h1 align="center">Hola 👋, soy Eduardo A. González Martell</h1>
-<h3 align="center">Estudiante de Ingeniería Informática en la Cujae 💚</h3>
+<div align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto&weight=900&duration=2500&pause=1000&color=3AF76B&center=true&vCenter=true&width=500&lines=Estudiante+de+Ingenier%C3%ADa+Inform%C3%A1tica+en+la+Cujae+%F0%9F%92%9A" alt="Typing SVG" /></a></div>
 
 ## 👾 Sobre Mí:
 - 🤓 Estudio en 2do año de ingeniería informática en la Universidad Tecnológica de La Habana "José Antonio Hecheverría" Cujae 💚
@@ -35,6 +35,20 @@
 <a href="https://doc.qt.io/qtcreator/" target="_blank" rel="noreferrer"> <img src="https://avatars.githubusercontent.com/u/30841581?s=280&v=4" alt="qt creator" width="40" height="40"/> </a> 
 </p>
 
+## 🔝 Mejores Repositorios:
+<div align="center">
+  <a href="https://github.com/EduardoProfe666/Proyecto-Tinger-y-el-Estambre"><img width="48%" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=EduardoProfe666&repo=Proyecto-Tinger-y-el-Estambre&theme=tokyonight"/></a>
+  <a href="https://github.com/EduardoProfe666/Proyecto-Api-Personalizada"><img width="48%" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=EduardoProfe666&repo=Proyecto-Api-Personalizada&theme=tokyonight"/></a>
+</div>
+<div align="center">
+  <a href="https://github.com/EduardoProfe666/Cujae13-Proyecto"><img width="48%" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=EduardoProfe666&repo=Cujae13-Proyecto&theme=tokyonight"/></a>
+  <a href="https://github.com/EduardoProfe666/Matematica-Numerica-Google-Colab"><img width="48%" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=EduardoProfe666&repo=Matematica-Numerica-Google-Colab&theme=tokyonight"/></a>
+</div>
+<div align="center">
+  <a href="https://github.com/EduardoProfe666/Proyecto-Dpoo"><img width="48%" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=EduardoProfe666&repo=Proyecto-Dpoo&theme=tokyonight"/></a>
+  <a href="https://github.com/EduardoProfe666/Proyecto-Final-C"><img width="48%" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=EduardoProfe666&repo=Proyecto-Final-C&theme=tokyonight"/></a>
+</div>
+
 ## 📊 Estadísticas de Github:
 <p align="center"><img width="48%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=EduardoProfe666&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&show_icons=true"/>
 <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=EduardoProfe666&theme=tokyonight&hide_border=false"/></p>
@@ -43,19 +57,6 @@
 
 ## 🏆 Trofeos de Github:
 ![](https://github-profile-trophy.vercel.app/?username=EduardoProfe666&theme=tokyonight&margin-w=3)
-
-## 🔝 Mejores Repositorios:
-<p align="center">
-  <a href="https://github.com/EduardoProfe666/Proyecto-Tinger-y-el-Estambre"><img width="48%" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=EduardoProfe666&repo=Proyecto-Tinger-y-el-Estambre&theme=tokyonight"/></a>
-  <a href="https://github.com/EduardoProfe666/Proyecto-Api-Personalizada"><img width="48%" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=EduardoProfe666&repo=Proyecto-Api-Personalizada&theme=tokyonight"/></a>
-</p>
-<p align="center">
-  <a href="https://github.com/EduardoProfe666/Cujae13-Proyecto"><img width="48%" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=EduardoProfe666&repo=Cujae13-Proyecto&theme=tokyonight"/></a>
-</p>
-<p align="center">
-  <a href="https://github.com/EduardoProfe666/Proyecto-Dpoo"><img width="48%" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=EduardoProfe666&repo=Proyecto-Dpoo&theme=tokyonight"/></a>
-  <a href="https://github.com/EduardoProfe666/Proyecto-Final-C"><img width="48%" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=EduardoProfe666&repo=Proyecto-Final-C&theme=tokyonight"/></a>
-</p>
 
 ## 👀 Visitas
 <p align="center" >   
