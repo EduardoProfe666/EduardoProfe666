@@ -42,7 +42,7 @@
 </div>
 <div align="center">
   <a href="https://github.com/EduardoProfe666/Cujae13-Proyecto"><img width="48%" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=EduardoProfe666&repo=Cujae13-Proyecto&theme=tokyonight"/></a>
-  <a href="https://github.com/EduardoProfe666/Matematica-Numerica-Google-Colab"><img width="48%" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=EduardoProfe666&repo=Matematica-Numerica-Google-Colab&theme=tokyonight"/></a>
+  <a href="https://github.com/EduardoProfe666/Matematica-Numerica-Google-Colab"><img width="48%" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=EduardoProfe666&repo=Tarea-2-JS&theme=tokyonight"/></a>
 </div>
 <div align="center">
   <a href="https://github.com/EduardoProfe666/Proyecto-Dpoo"><img width="48%" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=EduardoProfe666&repo=Proyecto-Dpoo&theme=tokyonight"/></a>
