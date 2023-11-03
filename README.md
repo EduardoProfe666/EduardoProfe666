@@ -3,8 +3,8 @@
 
 ## 👾 Sobre Mí:
 - 🤓 Estudio en 2do año de ingeniería informática en la Universidad Tecnológica de La Habana "José Antonio Hecheverría" Cujae 💚
-- 💬 Presento conocimientos y experiencia en el desarrollo de proyectos documentados en Java y Python
-- ⚡ Tengo experiencia y conocimiento en el desarrollo UI/UX usando Java Swing
+- 💬 Presento conocimientos y experiencia en el desarrollo de proyectos documentados en Java, Python y Vue
+- ⚡ Tengo experiencia y conocimiento en el desarrollo UI/UX usando Java Swing y Vue
 - 🔭 Me fascina desarrollar recursos como apis para poder facilitar el trabajo de los otros desarrolladores
 - 🤝 Me encanta participar en proyectos para aprender y colaborar con conocimiento
 - 🌱 Actualmente estoy aprendiendo **JavaScript, Vue, Spring, PostgreSql**
