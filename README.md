@@ -54,6 +54,9 @@
   <a href="https://github.com/EduardoProfe666/bases-de-datos"><img width="48%" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=EduardoProfe666&repo=bases-de-datos&theme=tokyonight"/></a>
   <a href="https://github.com/EduardoProfe666/Proyecto-Tinger-y-el-Estambre"><img width="48%" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=EduardoProfe666&repo=Proyecto-Tinger-y-el-Estambre&theme=tokyonight"/></a>
 </div>
+<div align="center">
+  <a href="https://github.com/EduardoProfe666/PyImageEditor"><img width="48%" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=EduardoProfe666&repo=PyImageEditor&theme=tokyonight"/></a>
+</div>
 
 ## 📊 Estadísticas de Github:
 <p align="center"><img width="48%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=EduardoProfe666&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&show_icons=true"/>
