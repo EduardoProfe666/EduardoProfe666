@@ -43,19 +43,16 @@
   <a href="https://github.com/EduardoProfe666/teoria-politica-web"><img width="48%" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=EduardoProfe666&repo=teoria-politica-web&theme=tokyonight"/></a>
 </div>
 <div align="center">
-  <a href="https://github.com/EduardoProfe666/Proyecto-Final-C"><img width="48%" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=EduardoProfe666&repo=Proyecto-Final-C&theme=tokyonight"/></a>
-  <a href="https://github.com/EduardoProfe666/Proyecto-Dpoo"><img width="48%" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=EduardoProfe666&repo=Proyecto-Dpoo&theme=tokyonight"/></a>
-</div>
-<div align="center">
-  <a href="https://github.com/EduardoProfe666/Cujae13-Proyecto"><img width="48%" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=EduardoProfe666&repo=Cujae13-Proyecto&theme=tokyonight"/></a>
-  <a href="https://github.com/EduardoProfe666/Tarea-2-JS"><img width="48%" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=EduardoProfe666&repo=Tarea-2-JS&theme=tokyonight"/></a>
-</div>
-<div align="center">
-  <a href="https://github.com/EduardoProfe666/bases-de-datos"><img width="48%" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=EduardoProfe666&repo=bases-de-datos&theme=tokyonight"/></a>
-  <a href="https://github.com/EduardoProfe666/Proyecto-Tinger-y-el-Estambre"><img width="48%" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=EduardoProfe666&repo=Proyecto-Tinger-y-el-Estambre&theme=tokyonight"/></a>
+  <a href="https://github.com/EduardoProfe666/Perdoname"><img width="48%" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=EduardoProfe666&repo=Perdoname&theme=tokyonight"/></a>
+  <a href="https://github.com/EduardoProfe666/dotnet-todo"><img width="48%" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=EduardoProfe666&repo=dotnet-todo&theme=tokyonight"/></a>
 </div>
 <div align="center">
   <a href="https://github.com/EduardoProfe666/PyImageEditor"><img width="48%" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=EduardoProfe666&repo=PyImageEditor&theme=tokyonight"/></a>
+  <a href="https://github.com/EduardoProfe666/Proyecto-Tinger-y-el-Estambre"><img width="48%" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=EduardoProfe666&repo=Proyecto-Tinger-y-el-Estambre&theme=tokyonight"/></a>
+</div>
+<div align="center">
+  <a href="https://github.com/EduardoProfe666/mn-api"><img width="48%" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=EduardoProfe666&repo=mn-api&theme=tokyonight"/></a>
+  <a href="https://github.com/EduardoProfe666/mn-api-docs"><img width="48%" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=EduardoProfe666&repo=mn-api-docs&theme=tokyonight"/></a>
 </div>
 
 ## 📊 Estadísticas de Github:
