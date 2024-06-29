@@ -3,11 +3,12 @@
 
 ## 👾 Sobre Mí:
 - 🤓 Estudio en 3er año de ingeniería informática en la Universidad Tecnológica de La Habana "José Antonio Hecheverría" Cujae 💚
-- 💬 Presento conocimientos y experiencia en el desarrollo de proyectos documentados en Java, Python, JavaScript, .Net y C
-- ⚡ Tengo experiencia y conocimiento en el desarrollo UI/UX usando Java Swing, Tkinter, Pygame, Vue, Astro y Razor Pages
+- 💬 Presento conocimientos y experiencia en el desarrollo de proyectos documentados en Java (Native y Spring), Python (Native, Django, FastApi, Google Mesop, Jupyter Labs, Tkinter, PyGame), JavaScript(*TypeScript, Native, Vue, Next, React, Astro, Nest), .Net(Native, AspNetCore, Razor Pages) y C(Native)
+- ⚡ Tengo experiencia y conocimiento en el desarrollo UI/UX usando Java Swing, Tkinter, Pygame, Vue, Astro, React, Next y Razor Pages
 - 🔭 Me fascina desarrollar recursos como apis para poder facilitar el trabajo de los otros desarrolladores
 - 🤝 Me encanta participar en proyectos para aprender y colaborar con conocimiento
-- 🌱 Actualmente estoy aprendiendo **Django, Spring, DRF y Maven**
+- 💼 Tengo experiencia laboral de 2 años como desarrollador junior en las empresas [AlsoftPro](https://www.facebook.com/p/ALsoftpro-100083052526414/) y [AICA+](https://www.aica.cu/)
+- 🌱 Actualmente estoy aprendiendo **Ruby, Rust, Kafka y Go**
 
 
 ## 🌐 Contáctame:
