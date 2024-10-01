@@ -2,13 +2,13 @@
 <div align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto&weight=900&duration=2500&pause=1000&color=3AF76B&center=true&vCenter=true&width=500&lines=Estudiante+de+Ingenier%C3%ADa+Inform%C3%A1tica+en+la+Cujae+%F0%9F%92%9A" alt="Typing SVG" /></a></div>
 
 ## 👾 Sobre Mí:
-- 🤓 Estudio en 3er año de ingeniería informática en la Universidad Tecnológica de La Habana "José Antonio Hecheverría" Cujae 💚
+- 🤓 Estudio en 4to año de ingeniería informática en la Universidad Tecnológica de La Habana "José Antonio Hecheverría" Cujae 💚
 - 💬 Presento conocimientos y experiencia en el desarrollo de proyectos documentados en Java, Python, JavaScript, .Net y C
 - ⚡ Tengo experiencia y conocimiento en el desarrollo UI/UX usando Java Swing, Tkinter, Pygame, Vue, Astro, React, Next y Razor Pages
 - 🔭 Me fascina desarrollar recursos como apis para poder facilitar el trabajo de los otros desarrolladores
 - 🤝 Me encanta participar en proyectos para aprender y colaborar con conocimiento
 - 💼 Tengo experiencia laboral de 2 años como desarrollador junior en las empresas [AlsoftPro](https://www.facebook.com/p/ALsoftpro-100083052526414/) y [AICA+](https://www.aica.cu/)
-- 🌱 Actualmente estoy aprendiendo **Ruby, Rust, Kafka y Go**
+- 🌱 Actualmente estoy aprendiendo **Ruby, Rust y Go**
 
 
 ## 🌐 Contáctame:
