@@ -7,7 +7,7 @@
 - ⚡ Tengo experiencia y conocimiento en el desarrollo UI/UX usando Java Swing, Tkinter, Pygame, Vue, Astro, React, Next y Razor Pages
 - 🔭 Me fascina desarrollar recursos como apis para poder facilitar el trabajo de los otros desarrolladores
 - 🤝 Me encanta participar en proyectos para aprender y colaborar con conocimiento
-- 💼 Tengo experiencia laboral de 2 años como desarrollador junior en las empresas [AlsoftPro](https://www.facebook.com/p/ALsoftpro-100083052526414/) y [AICA+](https://www.aica.cu/)
+- 💼 Tengo experiencia laboral de 2 años como desarrollador junior en las empresas [AlsoftPro](https://www.facebook.com/p/ALsoftpro-100083052526414/), [AICA+](https://www.aica.cu/) y [Mdialityc](https://github.com/Mdialityc/)
 - 🌱 Actualmente estoy aprendiendo **Ruby, Rust y Go**
 
 
