@@ -23,7 +23,7 @@
 
 ## ⚡ Actividad Reciente
 
-<!--GITHUB_ACTIVITY:{"rows": 10, "raw": true}-->
+<!--GITHUB_ACTIVITY:{"rows": 15,}-->
 
 ## 🌎 Encuéntrame
 
