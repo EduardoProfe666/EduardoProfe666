@@ -21,10 +21,6 @@
 - 🌱 Aprendiendo **Ruby, Rust y Go**
 - 🎯 Siempre buscando mejorar y compartir conocimientos.
 
-## ⚡ Actividad Reciente
-
-<!--START_SECTION:activity-->
-
 ## 🌎 Encuéntrame
 
 <div align="center">
@@ -114,6 +110,10 @@
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=EduardoProfe666&theme=tokyonight&margin-w=3" alt="Trofeos">
 </div>
+
+## ⚡ Actividad Reciente
+
+<!--START_SECTION:activity-->
 
 ## 💡 Proyectos Destacados
 
