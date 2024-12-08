@@ -23,16 +23,16 @@
 
 ## ⚡ Actividad Reciente
 
-⬆️ Pushed 1 commit to EduardoProfe666/EduardoProfe666
-⬆️ Pushed 1 commit to EduardoProfe666/EduardoProfe666
-⬆️ Pushed 1 commit to EduardoProfe666/EduardoProfe666
-⬆️ Pushed 1 commit to EduardoProfe666/EduardoProfe666
-⬆️ Pushed 1 commit to EduardoProfe666/EduardoProfe666
-⬆️ Pushed 1 commit to EduardoProfe666/EduardoProfe666
-⬆️ Pushed 1 commit to EduardoProfe666/EduardoProfe666
-⬆️ Pushed 1 commit to EduardoProfe666/EduardoProfe666
-⬆️ Pushed 1 commit to EduardoProfe666/EduardoProfe666
-⬆️ Pushed 1 commit to EduardoProfe666/EduardoProfe666
+* ⬆️ Pushed 1 commit to EduardoProfe666/EduardoProfe666
+* ⬆️ Pushed 1 commit to EduardoProfe666/EduardoProfe666
+* ⬆️ Pushed 1 commit to EduardoProfe666/EduardoProfe666
+* ⬆️ Pushed 1 commit to EduardoProfe666/EduardoProfe666
+* ⬆️ Pushed 1 commit to EduardoProfe666/EduardoProfe666
+* ⬆️ Pushed 1 commit to EduardoProfe666/EduardoProfe666
+* ⬆️ Pushed 1 commit to EduardoProfe666/EduardoProfe666
+* ⬆️ Pushed 1 commit to EduardoProfe666/EduardoProfe666
+* ⬆️ Pushed 1 commit to EduardoProfe666/EduardoProfe666
+* ⬆️ Pushed 1 commit to EduardoProfe666/EduardoProfe666
 
 ## 🌎 Encuéntrame
 
