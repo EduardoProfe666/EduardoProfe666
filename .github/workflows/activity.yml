@@ -1,24 +1,20 @@
 name: Github Activity
-
 on:
-  workflow_dispatch:
   schedule:
-    - cron: "*/30 * * * *"
-
+    - cron: "*/5 * * * *"
+  workflow_dispatch:
 jobs:
-  publish:
+  build:
+    name: Update this repo's README with recent activity
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
     steps:
-      - uses: actions/checkout@master
+      - uses: actions/checkout@v3
+      - uses: jamesgeorge007/github-activity-readme@master
+        env:
+          GITHUB_TOKEN: ${{ secrets.SECRET }}
         with:
-          persist-credentials: false
-          fetch-depth: 0
-      - name: Create README.md
-        uses: actions-js/profile-readme@master
-        with:
-          username: EduardoProfe666
-          github_token: ${{ secrets.SECRET }}
-      - name: Commit & Push changes
-        uses: actions-js/push@master
-        with:
-          github_token: ${{ secrets.SECRET }}
+          MAX_LINES: 15
+          COMMIT_NAME: GitHub Activity Readme
