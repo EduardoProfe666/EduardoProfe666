@@ -145,14 +145,73 @@
 
 ## 💡 Proyectos Destacados
 
-> [NOTE] En esta sección encontrarás los proyectos personales con los que más me divertí.
+> [!NOTE]
+> En esta sección encontrarás los proyectos personales con los que más me divertí.
 
 <div align="center">
   <table>
     <tr>
       <td align="center">
-        <a href="https://github.com/EduardoProfe666/fastapi-calculadora">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=EduardoProfe666&repo=fastapi-calculadora&theme=tokyonight" alt="Calculadora FastAPI" />
+        <a href="https://github.com/EduardoProfe666/cerito-cruz-vue">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=EduardoProfe666&repo=cerito-cruz-vue&theme=tokyonight" alt="Calculadora FastAPI" />
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://github.com/EduardoProfe666/sudoku-play">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=EduardoProfe666&repo=sudoku-play&theme=tokyonight" alt="Matemática Numérica" />
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <a href="https://github.com/EduardoProfe666/Descargar-Anime-Free-Bot">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=EduardoProfe666&repo=Descargar-Anime-Free-Bot&theme=tokyonight" alt="Calculadora FastAPI" />
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://github.com/EduardoProfe666/Perdoname">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=EduardoProfe666&repo=Perdoname&theme=tokyonight" alt="Matemática Numérica" />
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <a href="https://github.com/EduardoProfe666/Proyecto-Tinger-y-el-Estambre">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=EduardoProfe666&repo=Proyecto-Tinger-y-el-Estambre&theme=tokyonight" alt="Calculadora FastAPI" />
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://github.com/EduardoProfe666/world-greetings">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=EduardoProfe666&repo=world-greetings&theme=tokyonight" alt="Calculadora FastAPI" />
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <a href="https://github.com/EduardoProfe666/eduardoprofe666.github.io">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=EduardoProfe666&repo=eduardoprofe666.github.io&theme=tokyonight" alt="Calculadora FastAPI" />
+        </a>
+      </td>
+       <td align="center">
+        <a href="https://github.com/EduardoProfe666/Factorial-App">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=EduardoProfe666&repo=Factorial-App&theme=tokyonight" alt="Calculadora FastAPI" />
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
+
+## 🛠️ Herramientas para Otros
+
+> [!NOTE]
+> Aquí comparto las herramientas que he desarrollado para ayudar a otros desarrolladores.
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <a href="https://github.com/EduardoProfe666/DS-TCP1-Obsidian">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=EduardoProfe666&repo=DS-TCP1-Obsidian&theme=tokyonight" alt="Calculadora FastAPI" />
         </a>
       </td>
       <td align="center">
@@ -161,24 +220,37 @@
         </a>
       </td>
     </tr>
-  </table>
-</div>
-
-## 🛠️ Herramientas para Desarrolladores
-
-> [NOTE] Aquí comparto las herramientas que he desarrollado para ayudar a otros desarrolladores.
-
-<div align="center">
-  <table>
-    <tr>
-      <td align="center">
-        <a href="https://github.com/EduardoProfe666/fastapi-calculadora">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=EduardoProfe666&repo=fastapi-calculadora&theme=tokyonight" alt="Calculadora FastAPI" />
+          <td align="center">
+        <a href="https://github.com/EduardoProfe666/Proyecto-Api-Personalizada">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=EduardoProfe666&repo=Proyecto-Api-Personalizada&theme=tokyonight" alt="Calculadora FastAPI" />
         </a>
       </td>
       <td align="center">
-        <a href="https://github.com/EduardoProfe666/Matematica-Numerica-Google-Colab">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=EduardoProfe666&repo=Matematica-Numerica-Google-Colab&theme=tokyonight" alt="Matemática Numérica" />
+        <a href="https://github.com/EduardoProfe666/mn-api">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=EduardoProfe666&repo=mn-api&theme=tokyonight" alt="Matemática Numérica" />
+        </a>
+      </td>
+    </tr>
+          <td align="center">
+        <a href="https://github.com/EduardoProfe666/PyImageEditor">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=EduardoProfe666&repo=PyImageEditor&theme=tokyonight" alt="Calculadora FastAPI" />
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://github.com/EduardoProfe666/teoria-politica-web">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=EduardoProfe666&repo=teoria-politica-web&theme=tokyonight" alt="Matemática Numérica" />
+        </a>
+      </td>
+    </tr>
+    </tr>
+        <td align="center">
+        <a href="https://github.com/EduardoProfe666/Wifi-Repair">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=EduardoProfe666&repo=Wifi-Repair&theme=tokyonight" alt="Calculadora FastAPI" />
+        </a>
+      </td>
+       <td align="center">
+        <a href="https://github.com/EduardoProfe666/Look-And-Feels">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=EduardoProfe666&repo=Look-And-Feels&theme=tokyonight" alt="Calculadora FastAPI" />
         </a>
       </td>
     </tr>
@@ -187,7 +259,8 @@
 
 ## 🧪 Proyectos de Prueba y Templates
 
-> [INFO] Esta sección incluye proyectos experimentales y plantillas que he creado como base para otros desarrolladores.
+> [!NOTE]
+> Esta sección incluye proyectos experimentales y plantillas que he creado como base para otros desarrolladores.
 
 <div align="center">
   <table>
@@ -198,8 +271,97 @@
         </a>
       </td>
       <td align="center">
+        <a href="https://github.com/EduardoProfe666/dotnet-todo">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=EduardoProfe666&repo=dotnet-todo&theme=tokyonight" alt="Matemática Numérica" />
+        </a>
+      </td>
+    </tr>
+     <tr>
+      <td align="center">
+        <a href="https://github.com/EduardoProfe666/pw-bot">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=EduardoProfe666&repo=pw-bot&theme=tokyonight" alt="Calculadora FastAPI" />
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://github.com/EduardoProfe666/pw-ui">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=EduardoProfe666&repo=pw-ui&theme=tokyonight" alt="Matemática Numérica" />
+        </a>
+      </td>
+        </tr>
+     <tr>
+      <td align="center">
+        <a href="https://github.com/EduardoProfe666/vue-proyectos">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=EduardoProfe666&repo=vue-proyectos&theme=tokyonight" alt="Calculadora FastAPI" />
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
+
+## 📚 Proyectos Escolares
+
+> [!NOTE]
+> Esta sección incluye los proyectos realizados durante mi formación académica en la Cujae.
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <a href="https://github.com/EduardoProfe666/AicaDocsApi">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=EduardoProfe666&repo=AicaDocsApi&theme=tokyonight" alt="Calculadora FastAPI" />
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://github.com/EduardoProfe666/AicaDocsUI">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=EduardoProfe666&repo=AicaDocsUI&theme=tokyonight" alt="Matemática Numérica" />
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <a href="https://github.com/EduardoProfe666/Tarea-2-JS">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=EduardoProfe666&repo=Tarea-2-JS&theme=tokyonight" alt="Calculadora FastAPI" />
+        </a>
+      </td>
+      <td align="center">
         <a href="https://github.com/EduardoProfe666/Matematica-Numerica-Google-Colab">
           <img src="https://github-readme-stats.vercel.app/api/pin/?username=EduardoProfe666&repo=Matematica-Numerica-Google-Colab&theme=tokyonight" alt="Matemática Numérica" />
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <a href="https://github.com/EduardoProfe666/tarea-final-js">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=EduardoProfe666&repo=tarea-final-js&theme=tokyonight" alt="Calculadora FastAPI" />
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://github.com/EduardoProfe666/bases-de-datos">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=EduardoProfe666&repo=bases-de-datos&theme=tokyonight" alt="Matemática Numérica" />
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <a href="https://github.com/EduardoProfe666/Cujae13-Proyecto">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=EduardoProfe666&repo=Cujae13-Proyecto&theme=tokyonight" alt="Calculadora FastAPI" />
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://github.com/EduardoProfe666/Proyecto-Dpoo">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=EduardoProfe666&repo=Proyecto-Dpoo&theme=tokyonight" alt="Matemática Numérica" />
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <a href="https://github.com/EduardoProfe666/Proyecto-Final-C">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=EduardoProfe666&repo=Proyecto-Final-C&theme=tokyonight" alt="Calculadora FastAPI" />
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://github.com/EduardoProfe666/primeros-portfolios-g31">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=EduardoProfe666&repo=primeros-portfolios-g31&theme=tokyonight" alt="Matemática Numérica" />
         </a>
       </td>
     </tr>
