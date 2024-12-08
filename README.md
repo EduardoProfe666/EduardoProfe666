@@ -37,6 +37,9 @@
   <a href="https://www.linkedin.com/in/eduardo-gonzalez-23003628a" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
+  <a href="https://eduardprofe666.github.io" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-%232C2C2C?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio">
+  </a>
 </div>
 
 ## 🚀 Tecnologías y Herramientas
