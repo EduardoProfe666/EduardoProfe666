@@ -114,6 +114,9 @@
 ## ⚡ Actividad Reciente
 
 <!--START_SECTION:activity-->
+1. ❗ Opened issue [#21112](https://github.com/JonathanGin52/JonathanGin52/issues/21112) in [JonathanGin52/JonathanGin52](https://github.com/JonathanGin52/JonathanGin52)
+2. 💪 Opened PR [#4216](https://github.com/vuejs/awesome-vue/pull/4216) in [vuejs/awesome-vue](https://github.com/vuejs/awesome-vue)
+<!--END_SECTION:activity-->
 
 ## 💡 Proyectos Destacados
 
