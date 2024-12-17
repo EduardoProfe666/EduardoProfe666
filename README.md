@@ -142,7 +142,7 @@
 
 <!--START_SECTION:activity-->
 
-1. ❗ Opened issue [#21112](https://github.com/JonathanGin52/JonathanGin52/issues/21112) in [JonathanGin52/JonathanGin52](https://github.com/JonathanGin52/JonathanGin52)
+1. 🗣 Commented on [#4216](https://github.com/vuejs/awesome-vue/pull/4216#issuecomment-2547299645) in [vuejs/awesome-vue](https://github.com/vuejs/awesome-vue)
 2. 💪 Opened PR [#4216](https://github.com/vuejs/awesome-vue/pull/4216) in [vuejs/awesome-vue](https://github.com/vuejs/awesome-vue)
 <!--END_SECTION:activity-->
 
