@@ -376,3 +376,7 @@
 <div align="center">
   <img src="https://profile-counter.glitch.me/EduardoProfe666/count.svg" alt="Contador de Visitas">
 </div>
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/EduardoProfe666/EduardoProfe666/output/snake.svg" alt="Snake animation" />
