@@ -142,7 +142,7 @@
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#62](https://github.com/BrunnerLivio/brunnerlivio/issues/62#issuecomment-2557779860) in [BrunnerLivio/brunnerlivio](https://github.com/BrunnerLivio/brunnerlivio)
+1. 💪 Opened PR [#4222](https://github.com/vuejs/awesome-vue/pull/4222) in [vuejs/awesome-vue](https://github.com/vuejs/awesome-vue)
 2. 🗣 Commented on [#4216](https://github.com/vuejs/awesome-vue/pull/4216#issuecomment-2547299645) in [vuejs/awesome-vue](https://github.com/vuejs/awesome-vue)
 <!--END_SECTION:activity-->
 
