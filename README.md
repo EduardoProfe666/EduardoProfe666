@@ -297,6 +297,11 @@
           <img src="https://github-readme-stats.vercel.app/api/pin/?username=EduardoProfe666&repo=vue-proyectos&theme=tokyonight" alt="Calculadora FastAPI" />
         </a>
       </td>
+          <td align="center">
+        <a href="https://github.com/EduardoProfe666/vue-quotes">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=EduardoProfe666&repo=vue-quotes&theme=tokyonight" alt="Vue Quotes" />
+        </a>
+      </td>
     </tr>
   </table>
 </div>
