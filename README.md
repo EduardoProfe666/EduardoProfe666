@@ -142,7 +142,7 @@
 
 <!--START_SECTION:activity-->
 
-1. 💪 Opened PR [#2](https://github.com/Mdialityc/reymani-backend/pull/2) in [Mdialityc/reymani-backend](https://github.com/Mdialityc/reymani-backend)
+1. 🎉 Merged PR [#2](https://github.com/Mdialityc/reymani-backend/pull/2) in [Mdialityc/reymani-backend](https://github.com/Mdialityc/reymani-backend)
 2. 🗣 Commented on [#4216](https://github.com/vuejs/awesome-vue/pull/4216#issuecomment-2547299645) in [vuejs/awesome-vue](https://github.com/vuejs/awesome-vue)
 <!--END_SECTION:activity-->
 
