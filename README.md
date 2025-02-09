@@ -142,8 +142,8 @@
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#2](https://github.com/Mdialityc/reymani-backend/pull/2) in [Mdialityc/reymani-backend](https://github.com/Mdialityc/reymani-backend)
-2. 🗣 Commented on [#4216](https://github.com/vuejs/awesome-vue/pull/4216#issuecomment-2547299645) in [vuejs/awesome-vue](https://github.com/vuejs/awesome-vue)
+1. 🎉 Merged PR [#4](https://github.com/Mdialityc/reymani-backend/pull/4) in [Mdialityc/reymani-backend](https://github.com/Mdialityc/reymani-backend)
+2. 💪 Opened PR [#4](https://github.com/Mdialityc/reymani-backend/pull/4) in [Mdialityc/reymani-backend](https://github.com/Mdialityc/reymani-backend)
 <!--END_SECTION:activity-->
 
 ## 💡 Proyectos Destacados
