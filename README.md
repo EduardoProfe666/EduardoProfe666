@@ -142,8 +142,8 @@
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#14](https://github.com/medialityc/reymani-backend/pull/14) in [medialityc/reymani-backend](https://github.com/medialityc/reymani-backend)
-2. 💪 Opened PR [#14](https://github.com/medialityc/reymani-backend/pull/14) in [medialityc/reymani-backend](https://github.com/medialityc/reymani-backend)
+1. 🎉 Merged PR [#18](https://github.com/medialityc/reymani-backend/pull/18) in [medialityc/reymani-backend](https://github.com/medialityc/reymani-backend)
+2. 💪 Opened PR [#18](https://github.com/medialityc/reymani-backend/pull/18) in [medialityc/reymani-backend](https://github.com/medialityc/reymani-backend)
 <!--END_SECTION:activity-->
 
 ## 💡 Proyectos Destacados
