@@ -2,7 +2,7 @@
     <img src="assets/banner.png" alt="Banner" width="100%"/>
     <br/>
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Charm&size=22&duration=2500&pause=1000&color=6BE68EA0&center=true&vCenter=true&width=500&lines=Desarrollador+apasionado+por+la+tecnolog%C3%ADa+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB;Estudiante+de+ingenier%C3%ADa+inform%C3%A1tica+%F0%9F%92%9A;Siempre+en+busca+de+aprender+y+colaborar+%F0%9F%A4%93" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Charm&size=22&duration=2500&pause=1000&color=6BE68EA0&center=true&vCenter=true&width=500&lines=Desarrollador+apasionado+por+la+tecnolog%C3%ADa+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB;Ingeniero+Inform%C3%A1tico+%F0%9F%92%9A;Siempre+en+busca+de+aprender+y+colaborar+%F0%9F%A4%93" alt="Typing SVG" />
   </a>
 </div>
  
