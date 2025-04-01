@@ -10,7 +10,7 @@
 
 ## 👨‍💻 Sobre mí
 
-- 🤓 **4to Año de Ingeniería Informática** en la Cujae, La Habana, Cuba 💚
+- 🤓 **Ingeniero Informático** de la Cujae, La Habana, Cuba 💚
 - 💬 Experiencia en proyectos con **Java, Python, JavaScript/TypeScript, .NET, C**
 - 🎨 Pasión por el diseño **UI/UX** con herramientas como **Swing, Vue, Nuxt, React, Next y Astro**
 - ⚙️ Interés especial en el desarrollo **Backend y DevOps**, con un enfoque en soluciones robustas y automatizadas
@@ -19,7 +19,7 @@
   - [AlsoftPro](https://www.facebook.com/p/ALsoftpro-100083052526414/)
   - [AICA+](https://www.aica.cu/)
   - [Mdialityc](https://github.com/Mdialityc)
-- 🌱 Aprendiendo **Ruby, Rust y Go**
+- 🌱 Aprendiendo **Go**
 - 🎯 Siempre buscando mejorar y compartir conocimientos.
 
 ## 🌎 Encuéntrame
