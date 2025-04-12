@@ -2,27 +2,29 @@
     <img src="assets/banner.png" alt="Banner" width="100%"/>
     <br/>
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Charm&size=22&duration=2500&pause=1000&color=6BE68EA0&center=true&vCenter=true&width=500&lines=Desarrollador+apasionado+por+la+tecnolog%C3%ADa+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB;Ingeniero+Inform%C3%A1tico+%F0%9F%92%9A;Siempre+en+busca+de+aprender+y+colaborar+%F0%9F%A4%93" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Charm&size=22&duration=2500&pause=1000&color=6BE68EA0&center=true&vCenter=true&width=500&lines=Passionate+Technology+Developer+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB;Software+Engineer+%F0%9F%92%9A;Always+Learning+and+Collaborating+%F0%9F%A4%93" alt="Typing SVG" />
   </a>
 </div>
  
 ---
 
-## 👨‍💻 Sobre mí
+## 👨‍💻 About Me
 
-- 🤓 **Ingeniero Informático** de la Cujae, La Habana, Cuba 💚
-- 💬 Experiencia en proyectos con **Java, Python, JavaScript/TypeScript, .NET, C**
-- 🎨 Pasión por el diseño **UI/UX** con herramientas como **Swing, Vue, Nuxt, React, Next y Astro**
-- ⚙️ Interés especial en el desarrollo **Backend y DevOps**, con un enfoque en soluciones robustas y automatizadas
-- ⚡ Me encanta construir herramientas que mejoren la vida de las personas, especialmente la de otros desarrolladores
-- 🤝 **2 años de experiencia laboral** como desarrollador junior en empresas como:
+- 🤓 **Software Engineer** from Cujae, Havana, Cuba 💚
+- 💬 Experience in projects with **Java, Python, JavaScript/TypeScript, .NET, C**
+- 🎨 Passionate about **UI/UX** design using **Swing, Vue, Nuxt, React, Next, Svelte and Astro**
+- ⚙️ Special interest in **Backend and DevOps**, focused on robust and automated solutions
+- ⚡ Love building tools that improve people's lives, especially other developers'
+- 🤝 **3 years of professional experience** as junior developer at:
   - [AlsoftPro](https://www.facebook.com/p/ALsoftpro-100083052526414/)
   - [AICA+](https://www.aica.cu/)
   - [Mdialityc](https://github.com/Mdialityc)
-- 🌱 Aprendiendo **Go**
-- 🎯 Siempre buscando mejorar y compartir conocimientos.
+  - [Ecos Productions](https://www.ecosvideos.com)
+  - [EMSI FARMA TECH](https://emsifarma.com)
+- 🌱 Currently learning **Go**
+- 🎯 Always seeking to improve and share knowledge.
 
-## 🌎 Encuéntrame
+## 🌎 Find Me
 
 <div align="center">
   <a href="https://youtube.com/@EduardoProfe666" target="_blank">
@@ -31,10 +33,10 @@
   <a href="https://codeforces.com/profile/eduardoProfe666" target="_blank">
     <img src="https://img.shields.io/badge/Codeforces-%23456392?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces">
   </a>
-  <a href="mailto:eduardoglez64377@gmail.com" target="_blank">
+  <a href="mailto:eduardoprofe666@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-%23D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
-  <a href="https://www.linkedin.com/in/eduardo-gonzalez-23003628a" target="_blank">
+  <a href="https://www.linkedin.com/in/eduardo-alejandro-gonz%C3%A1lez-martell-23003628a" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="https://eduardprofe666.github.io" target="_blank">
@@ -42,7 +44,7 @@
   </a>
 </div>
 
-## 🚀 Tecnologías y Herramientas
+## 🚀 Technologies & Tools
 
 <div align="center">
   <table>
@@ -107,38 +109,38 @@
   </table>
 </div>
 
-## 📊 Estadísticas de Github
+## 📊 GitHub Statistics
 
 <div align="center">
   <table border="none" align="center">
     <tr>
       <td align="center" style="padding: 10px;">
-        <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=EduardoProfe666&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" alt="Estadísticas" />
+        <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=EduardoProfe666&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" alt="Statistics" />
       </td>
       <td align="center" style="padding: 10px;">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=EduardoProfe666&theme=tokyonight&hide_border=true" alt="Racha" />
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=EduardoProfe666&theme=tokyonight&hide_border=true" alt="Streak" />
       </td>
     </tr>
     <tr>
       <td colspan="2" align="center" style="padding: 10px;">
-        <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=EduardoProfe666&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Lenguajes" />
+        <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=EduardoProfe666&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Languages" />
       </td>
     </tr>
     <tr>
       <td colspan="2" align="center" style="padding: 10px;">
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=EduardoProfe666&theme=tokyonight&hide_border=true" alt="Resumen de perfil" />
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=EduardoProfe666&theme=tokyonight&hide_border=true" alt="Profile Summary" />
       </td>
     </tr>
   </table>
 </div>
 
-## 🏆 Logros y Trofeos
+## 🏆 Achievements & Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=EduardoProfe666&theme=tokyonight&margin-w=3" alt="Trofeos">
+  <img src="https://github-profile-trophy.vercel.app/?username=EduardoProfe666&theme=tokyonight&margin-w=3" alt="Trophies">
 </div>
 
-## ⚡ Actividad Reciente
+## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
 
@@ -146,155 +148,155 @@
 2. 💪 Opened PR [#33](https://github.com/medialityc/reymani-backend/pull/33) in [medialityc/reymani-backend](https://github.com/medialityc/reymani-backend)
 <!--END_SECTION:activity-->
 
-## 💡 Proyectos Destacados
+## 💡 Featured Projects
 
 > [!NOTE]
-> En esta sección encontrarás los proyectos personales con los que más me divertí.
+> In this section you'll find the personal projects I had the most fun with.
 
 <div align="center">
   <table>
     <tr>
       <td align="center">
         <a href="https://github.com/EduardoProfe666/cerito-cruz-vue">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=EduardoProfe666&repo=cerito-cruz-vue&theme=tokyonight" alt="Calculadora FastAPI" />
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=EduardoProfe666&repo=cerito-cruz-vue&theme=tokyonight" alt="Cerito Cruz Vue" />
         </a>
       </td>
       <td align="center">
         <a href="https://github.com/EduardoProfe666/sudoku-play">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=EduardoProfe666&repo=sudoku-play&theme=tokyonight" alt="Matemática Numérica" />
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=EduardoProfe666&repo=sudoku-play&theme=tokyonight" alt="Sudoku Play" />
         </a>
       </td>
     </tr>
     <tr>
       <td align="center">
         <a href="https://github.com/EduardoProfe666/Descargar-Anime-Free-Bot">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=EduardoProfe666&repo=Descargar-Anime-Free-Bot&theme=tokyonight" alt="Calculadora FastAPI" />
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=EduardoProfe666&repo=Descargar-Anime-Free-Bot&theme=tokyonight" alt="Anime Free Bot" />
         </a>
       </td>
       <td align="center">
         <a href="https://github.com/EduardoProfe666/Perdoname">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=EduardoProfe666&repo=Perdoname&theme=tokyonight" alt="Matemática Numérica" />
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=EduardoProfe666&repo=Perdoname&theme=tokyonight" alt="Perdoname" />
         </a>
       </td>
     </tr>
     <tr>
       <td align="center">
         <a href="https://github.com/EduardoProfe666/Proyecto-Tinger-y-el-Estambre">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=EduardoProfe666&repo=Proyecto-Tinger-y-el-Estambre&theme=tokyonight" alt="Calculadora FastAPI" />
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=EduardoProfe666&repo=Proyecto-Tinger-y-el-Estambre&theme=tokyonight" alt="Tinger and Estambre" />
         </a>
       </td>
       <td align="center">
         <a href="https://github.com/EduardoProfe666/world-greetings">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=EduardoProfe666&repo=world-greetings&theme=tokyonight" alt="Calculadora FastAPI" />
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=EduardoProfe666&repo=world-greetings&theme=tokyonight" alt="World Greetings" />
         </a>
       </td>
     </tr>
     <tr>
       <td align="center">
         <a href="https://github.com/EduardoProfe666/eduardoprofe666.github.io">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=EduardoProfe666&repo=eduardoprofe666.github.io&theme=tokyonight" alt="Calculadora FastAPI" />
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=EduardoProfe666&repo=eduardoprofe666.github.io&theme=tokyonight" alt="Portfolio Website" />
         </a>
       </td>
        <td align="center">
         <a href="https://github.com/EduardoProfe666/Factorial-App">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=EduardoProfe666&repo=Factorial-App&theme=tokyonight" alt="Calculadora FastAPI" />
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=EduardoProfe666&repo=Factorial-App&theme=tokyonight" alt="Factorial App" />
         </a>
       </td>
     </tr>
   </table>
 </div>
 
-## 🛠️ Herramientas para Otros
+## 🛠️ Developer Tools
 
 > [!NOTE]
-> Aquí comparto las herramientas que he desarrollado para ayudar a otros desarrolladores.
+> Here I share the tools I've developed to help other developers.
 
 <div align="center">
   <table>
     <tr>
       <td align="center">
         <a href="https://github.com/EduardoProfe666/DS-TCP1-Obsidian">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=EduardoProfe666&repo=DS-TCP1-Obsidian&theme=tokyonight" alt="Calculadora FastAPI" />
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=EduardoProfe666&repo=DS-TCP1-Obsidian&theme=tokyonight" alt="Obsidian Plugin" />
         </a>
       </td>
       <td align="center">
         <a href="https://github.com/EduardoProfe666/Matematica-Numerica-Google-Colab">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=EduardoProfe666&repo=Matematica-Numerica-Google-Colab&theme=tokyonight" alt="Matemática Numérica" />
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=EduardoProfe666&repo=Matematica-Numerica-Google-Colab&theme=tokyonight" alt="Numerical Math Colab" />
         </a>
       </td>
     </tr>
           <td align="center">
         <a href="https://github.com/EduardoProfe666/Proyecto-Api-Personalizada">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=EduardoProfe666&repo=Proyecto-Api-Personalizada&theme=tokyonight" alt="Calculadora FastAPI" />
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=EduardoProfe666&repo=Proyecto-Api-Personalizada&theme=tokyonight" alt="Custom API Project" />
         </a>
       </td>
       <td align="center">
         <a href="https://github.com/EduardoProfe666/mn-api">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=EduardoProfe666&repo=mn-api&theme=tokyonight" alt="Matemática Numérica" />
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=EduardoProfe666&repo=mn-api&theme=tokyonight" alt="MN API" />
         </a>
       </td>
     </tr>
           <td align="center">
         <a href="https://github.com/EduardoProfe666/PyImageEditor">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=EduardoProfe666&repo=PyImageEditor&theme=tokyonight" alt="Calculadora FastAPI" />
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=EduardoProfe666&repo=PyImageEditor&theme=tokyonight" alt="PyImageEditor" />
         </a>
       </td>
       <td align="center">
         <a href="https://github.com/EduardoProfe666/teoria-politica-web">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=EduardoProfe666&repo=teoria-politica-web&theme=tokyonight" alt="Matemática Numérica" />
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=EduardoProfe666&repo=teoria-politica-web&theme=tokyonight" alt="Political Theory Web" />
         </a>
       </td>
     </tr>
     </tr>
         <td align="center">
         <a href="https://github.com/EduardoProfe666/Wifi-Repair">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=EduardoProfe666&repo=Wifi-Repair&theme=tokyonight" alt="Calculadora FastAPI" />
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=EduardoProfe666&repo=Wifi-Repair&theme=tokyonight" alt="WiFi Repair" />
         </a>
       </td>
        <td align="center">
         <a href="https://github.com/EduardoProfe666/Look-And-Feels">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=EduardoProfe666&repo=Look-And-Feels&theme=tokyonight" alt="Calculadora FastAPI" />
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=EduardoProfe666&repo=Look-And-Feels&theme=tokyonight" alt="Look And Feels" />
         </a>
       </td>
     </tr>
   </table>
 </div>
 
-## 🧪 Proyectos de Prueba y Templates
+## 🧪 Test Projects & Templates
 
 > [!NOTE]
-> Esta sección incluye proyectos experimentales y plantillas que he creado como base para otros desarrolladores.
+> This section includes experimental projects and templates I've created as a foundation for other developers.
 
 <div align="center">
   <table>
     <tr>
       <td align="center">
         <a href="https://github.com/EduardoProfe666/fastapi-calculadora">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=EduardoProfe666&repo=fastapi-calculadora&theme=tokyonight" alt="Calculadora FastAPI" />
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=EduardoProfe666&repo=fastapi-calculadora&theme=tokyonight" alt="FastAPI Calculator" />
         </a>
       </td>
       <td align="center">
         <a href="https://github.com/EduardoProfe666/dotnet-todo">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=EduardoProfe666&repo=dotnet-todo&theme=tokyonight" alt="Matemática Numérica" />
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=EduardoProfe666&repo=dotnet-todo&theme=tokyonight" alt="DotNet Todo" />
         </a>
       </td>
     </tr>
      <tr>
       <td align="center">
         <a href="https://github.com/EduardoProfe666/pw-bot">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=EduardoProfe666&repo=pw-bot&theme=tokyonight" alt="Calculadora FastAPI" />
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=EduardoProfe666&repo=pw-bot&theme=tokyonight" alt="PW Bot" />
         </a>
       </td>
       <td align="center">
         <a href="https://github.com/EduardoProfe666/pw-ui">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=EduardoProfe666&repo=pw-ui&theme=tokyonight" alt="Matemática Numérica" />
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=EduardoProfe666&repo=pw-ui&theme=tokyonight" alt="PW UI" />
         </a>
       </td>
         </tr>
      <tr>
       <td align="center">
         <a href="https://github.com/EduardoProfe666/vue-proyectos">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=EduardoProfe666&repo=vue-proyectos&theme=tokyonight" alt="Calculadora FastAPI" />
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=EduardoProfe666&repo=vue-proyectos&theme=tokyonight" alt="Vue Projects" />
         </a>
       </td>
           <td align="center">
@@ -306,80 +308,80 @@
   </table>
 </div>
 
-## 📚 Proyectos Escolares
+## 📚 Academic Projects
 
 > [!NOTE]
-> Esta sección incluye los proyectos realizados durante mi formación académica en la Cujae.
+> This section includes projects completed during my academic journey at Cujae.
 
 <div align="center">
   <table>
     <tr>
       <td align="center">
         <a href="https://github.com/EduardoProfe666/AicaDocsApi">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=EduardoProfe666&repo=AicaDocsApi&theme=tokyonight" alt="Calculadora FastAPI" />
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=EduardoProfe666&repo=AicaDocsApi&theme=tokyonight" alt="AicaDocs API" />
         </a>
       </td>
       <td align="center">
         <a href="https://github.com/EduardoProfe666/AicaDocsUI">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=EduardoProfe666&repo=AicaDocsUI&theme=tokyonight" alt="Matemática Numérica" />
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=EduardoProfe666&repo=AicaDocsUI&theme=tokyonight" alt="AicaDocs UI" />
         </a>
       </td>
     </tr>
     <tr>
       <td align="center">
         <a href="https://github.com/EduardoProfe666/Tarea-2-JS">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=EduardoProfe666&repo=Tarea-2-JS&theme=tokyonight" alt="Calculadora FastAPI" />
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=EduardoProfe666&repo=Tarea-2-JS&theme=tokyonight" alt="Task 2 JS" />
         </a>
       </td>
       <td align="center">
         <a href="https://github.com/EduardoProfe666/Matematica-Numerica-Google-Colab">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=EduardoProfe666&repo=Matematica-Numerica-Google-Colab&theme=tokyonight" alt="Matemática Numérica" />
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=EduardoProfe666&repo=Matematica-Numerica-Google-Colab&theme=tokyonight" alt="Numerical Math Colab" />
         </a>
       </td>
     </tr>
     <tr>
       <td align="center">
         <a href="https://github.com/EduardoProfe666/tarea-final-js">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=EduardoProfe666&repo=tarea-final-js&theme=tokyonight" alt="Calculadora FastAPI" />
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=EduardoProfe666&repo=tarea-final-js&theme=tokyonight" alt="Final Task JS" />
         </a>
       </td>
       <td align="center">
         <a href="https://github.com/EduardoProfe666/bases-de-datos">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=EduardoProfe666&repo=bases-de-datos&theme=tokyonight" alt="Matemática Numérica" />
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=EduardoProfe666&repo=bases-de-datos&theme=tokyonight" alt="Database Basics" />
         </a>
       </td>
     </tr>
     <tr>
       <td align="center">
         <a href="https://github.com/EduardoProfe666/Cujae13-Proyecto">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=EduardoProfe666&repo=Cujae13-Proyecto&theme=tokyonight" alt="Calculadora FastAPI" />
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=EduardoProfe666&repo=Cujae13-Proyecto&theme=tokyonight" alt="Cujae13 Project" />
         </a>
       </td>
       <td align="center">
         <a href="https://github.com/EduardoProfe666/Proyecto-Dpoo">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=EduardoProfe666&repo=Proyecto-Dpoo&theme=tokyonight" alt="Matemática Numérica" />
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=EduardoProfe666&repo=Proyecto-Dpoo&theme=tokyonight" alt="DPOO Project" />
         </a>
       </td>
     </tr>
     <tr>
       <td align="center">
         <a href="https://github.com/EduardoProfe666/Proyecto-Final-C">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=EduardoProfe666&repo=Proyecto-Final-C&theme=tokyonight" alt="Calculadora FastAPI" />
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=EduardoProfe666&repo=Proyecto-Final-C&theme=tokyonight" alt="Final Project C" />
         </a>
       </td>
       <td align="center">
         <a href="https://github.com/EduardoProfe666/primeros-portfolios-g31">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=EduardoProfe666&repo=primeros-portfolios-g31&theme=tokyonight" alt="Matemática Numérica" />
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=EduardoProfe666&repo=primeros-portfolios-g31&theme=tokyonight" alt="First Portfolios G31" />
         </a>
       </td>
     </tr>
   </table>
 </div>
 
-## 📈 Visitas
+## 📈 Profile Views
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/EduardoProfe666/count.svg" alt="Contador de Visitas">
+  <img src="https://profile-counter.glitch.me/EduardoProfe666/count.svg" alt="Visit Counter">
 </div>
 
 <br clear="both">
