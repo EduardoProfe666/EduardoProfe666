@@ -144,8 +144,8 @@
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#3](https://github.com/medialityc/reymani-frontend/pull/3) in [medialityc/reymani-frontend](https://github.com/medialityc/reymani-frontend)
-2. 💪 Opened PR [#3](https://github.com/medialityc/reymani-frontend/pull/3) in [medialityc/reymani-frontend](https://github.com/medialityc/reymani-frontend)
+1. 🎉 Merged PR [#1](https://github.com/EduardoProfe666/tasas-cuba/pull/1) in [EduardoProfe666/tasas-cuba](https://github.com/EduardoProfe666/tasas-cuba)
+2. 💪 Opened PR [#1](https://github.com/EduardoProfe666/tasas-cuba/pull/1) in [EduardoProfe666/tasas-cuba](https://github.com/EduardoProfe666/tasas-cuba)
 <!--END_SECTION:activity-->
 
 ## 💡 Featured Projects
