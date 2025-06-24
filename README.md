@@ -18,9 +18,10 @@
 - 🤝 **3 years of professional experience** as junior developer at:
   - [AlsoftPro](https://www.facebook.com/p/ALsoftpro-100083052526414/)
   - [AICA+](https://www.aica.cu/)
-  - [Mdialityc](https://github.com/Mdialityc)
+  - [Medialityc](https://github.com/Medialityc)
   - [Ecos Productions](https://www.ecosvideos.com)
   - [EMSI FARMA TECH](https://emsifarma.com)
+  - [Codes SRL](https://www.codestic.net/)
 - 🌱 Currently learning **Go**
 - 🎯 Always seeking to improve and share knowledge.
 
@@ -169,6 +170,30 @@
     </tr>
     <tr>
       <td align="center">
+        <a href="https://github.com/EduardoProfe666/tasas-cuba">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=EduardoProfe666&repo=tasas-cuba&theme=tokyonight" alt="Candela" />
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://github.com/EduardoProfe666/password-generator">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=EduardoProfe666&repo=password-generator&theme=tokyonight" alt="Password Generator" />
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <a href="https://github.com/EduardoProfe666/weather-app">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=EduardoProfe666&repo=weather-app&theme=tokyonight" alt="Weather App" />
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://github.com/EduardoProfe666/whack-a-mole-brutalist">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=EduardoProfe666&repo=whack-a-mole-brutalist&theme=tokyonight" alt="Whack a mole Brutalist" />
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
         <a href="https://github.com/EduardoProfe666/Descargar-Anime-Free-Bot">
           <img src="https://github-readme-stats.vercel.app/api/pin/?username=EduardoProfe666&repo=Descargar-Anime-Free-Bot&theme=tokyonight" alt="Anime Free Bot" />
         </a>
@@ -186,8 +211,8 @@
         </a>
       </td>
       <td align="center">
-        <a href="https://github.com/EduardoProfe666/world-greetings">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=EduardoProfe666&repo=world-greetings&theme=tokyonight" alt="World Greetings" />
+        <a href="https://github.com/EduardoProfe666/la-botellita">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=EduardoProfe666&repo=la-botellita&theme=tokyonight" alt="La botellita" />
         </a>
       </td>
     </tr>
