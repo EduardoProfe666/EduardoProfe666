@@ -406,7 +406,7 @@
 ## 📈 Profile Views
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/EduardoProfe666/count.svg" alt="Visit Counter">
+  <img src="https://profile-counter.deno.dev/EduardoProfe666/count.svg" alt="Visit Counter">
 </div>
 
 <br clear="both">
