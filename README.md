@@ -14,6 +14,7 @@
 - 💬 Experience in projects with **Java, Python, JavaScript/TypeScript, .NET, C**
 - 🎨 Passionate about **UI/UX** design using **Swing, Vue, Nuxt, React, Next, Svelte and Astro**
 - ⚙️ Special interest in **Backend and DevOps**, focused on robust and automated solutions
+- 🤖 Building enterprise **AI agents and chatbots** using **n8n**
 - ⚡ Love building tools that improve people's lives, especially other developers'
 - 🤝 **3 years of professional experience** as junior developer at:
   - [AlsoftPro](https://www.facebook.com/p/ALsoftpro-100083052526414/)
@@ -22,7 +23,6 @@
   - [Ecos Productions](https://www.ecosvideos.com)
   - [EMSI FARMA TECH](https://emsifarma.com)
   - [Codes SRL](https://www.codestic.net/)
-- 🌱 Currently learning **Go**
 - 🎯 Always seeking to improve and share knowledge.
 
 ## 🌎 Find Me
@@ -75,6 +75,7 @@
         <div align="center">
           <a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px; height: 50px;" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" /></a>  
           <a href="https://nodejs.org/" target="_blank"><img style="margin: 10px; height: 50px;" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" /></a>  
+          <a href="https://n8n.com/" target="_blank"><img style="margin: 10px; height: 50px;" src="https://uxwing.com/n8n-icon/" alt="n8n" height="50" /></a> 
           <a href="https://deno.land/" target="_blank"><img style="margin: 10px; height: 50px;" src="https://profilinator.rishav.dev/skills-assets/deno.svg" alt="Deno" height="50" /></a> 
           <a href="https://expressjs.com/" target="_blank"><img style="margin: 10px; height: 50px;" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="50" /></a> 
           <a href="https://nestjs.com/" target="_blank"><img style="margin: 10px; height: 50px;" src="https://profilinator.rishav.dev/skills-assets/nestjs.svg" alt="NestJS" height="50" /></a>  
@@ -170,8 +171,8 @@
     </tr>
     <tr>
       <td align="center">
-        <a href="https://github.com/EduardoProfe666/tasas-cuba">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=EduardoProfe666&repo=tasas-cuba&theme=tokyonight" alt="Candela" />
+        <a href="https://github.com/EduardoProfe666/une-unwrapped-habana">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=EduardoProfe666&repo=une-unwrapped-habana&theme=tokyonight" alt="UNE Unwrapped" />
         </a>
       </td>
       <td align="center">
