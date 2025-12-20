@@ -146,7 +146,7 @@
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#2](https://github.com/EduardoProfe666/tasas-cuba/pull/2) in [EduardoProfe666/tasas-cuba](https://github.com/EduardoProfe666/tasas-cuba)
+1. 💪 Opened PR [#167](undefined) in [CuCodersCommunity/cucoderscommunity.github.io](https://github.com/CuCodersCommunity/cucoderscommunity.github.io)
 2. 💪 Opened PR [#2](https://github.com/EduardoProfe666/tasas-cuba/pull/2) in [EduardoProfe666/tasas-cuba](https://github.com/EduardoProfe666/tasas-cuba)
 <!--END_SECTION:activity-->
 
