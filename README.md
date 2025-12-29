@@ -146,7 +146,7 @@
 
 <!--START_SECTION:activity-->
 
-1. ❗ Opened issue [#1](https://github.com/yossTheDev/i18nizer/issues/1) in [yossTheDev/i18nizer](https://github.com/yossTheDev/i18nizer)
+1. ❌ Merged PR [#167](undefined) in [CuCodersCommunity/cucoderscommunity.github.io](https://github.com/CuCodersCommunity/cucoderscommunity.github.io)
 2. 💪 Opened PR [#2](https://github.com/EduardoProfe666/tasas-cuba/pull/2) in [EduardoProfe666/tasas-cuba](https://github.com/EduardoProfe666/tasas-cuba)
 <!--END_SECTION:activity-->
 
