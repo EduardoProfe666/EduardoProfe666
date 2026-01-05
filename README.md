@@ -16,7 +16,7 @@
 - ⚙️ Special interest in **Backend and DevOps**, focused on robust and automated solutions
 - 🤖 Building enterprise **AI agents and chatbots** using **n8n**
 - ⚡ Love building tools that improve people's lives, especially other developers'
-- 🤝 **3 years of professional experience** as mid senior developer at:
+- 🤝 **3 years of professional experience** as mid senior fullstack developer at:
   - [AlsoftPro](https://www.facebook.com/p/ALsoftpro-100083052526414/)
   - [AICA+](https://www.aica.cu/)
   - [Medialityc](https://github.com/Medialityc)
