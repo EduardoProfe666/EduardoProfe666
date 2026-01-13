@@ -23,7 +23,7 @@
   - [Ecos Productions](https://www.ecosvideos.com)
   - [EMSI FARMA TECH](https://emsifarma.com)
   - [Codes SRL](https://www.codestic.net/)
-  - [AIKoders LLC](https://github.com/AIKoders)
+  - [AIKoders LLC](https://aikoders.tech)
 - 🎯 Always seeking to improve and share knowledge.
 
 ## 🌎 Find Me
