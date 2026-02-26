@@ -147,8 +147,8 @@
 
 <!--START_SECTION:activity-->
 
-1. ❌ Merged PR [#167](undefined) in [CuCodersCommunity/cucoderscommunity.github.io](https://github.com/CuCodersCommunity/cucoderscommunity.github.io)
-2. 💪 Opened PR [#2](https://github.com/EduardoProfe666/tasas-cuba/pull/2) in [EduardoProfe666/tasas-cuba](https://github.com/EduardoProfe666/tasas-cuba)
+1. 🗣 Commented on [#2](https://github.com/EduardoProfe666/Perdoname/issues/2#issuecomment-3964302338) in [EduardoProfe666/Perdoname](https://github.com/EduardoProfe666/Perdoname)
+2. 🗣 Commented on [#3](https://github.com/EduardoProfe666/Perdoname/issues/3#issuecomment-3964300944) in [EduardoProfe666/Perdoname](https://github.com/EduardoProfe666/Perdoname)
 <!--END_SECTION:activity-->
 
 ## 💡 Featured Projects
