@@ -147,8 +147,8 @@
 
 <!--START_SECTION:activity-->
 
-1. 🔒 Closed issue [#3](https://github.com/EduardoProfe666/Perdoname/issues/3) in [EduardoProfe666/Perdoname](https://github.com/EduardoProfe666/Perdoname)
-2. 🔒 Closed issue [#2](https://github.com/EduardoProfe666/Perdoname/issues/2) in [EduardoProfe666/Perdoname](https://github.com/EduardoProfe666/Perdoname)
+1. 🗣 Commented on [#5](https://github.com/EduardoProfe666/Perdoname/issues/5#issuecomment-4130336711) in [EduardoProfe666/Perdoname](https://github.com/EduardoProfe666/Perdoname)
+2. 🔒 Closed issue [#5](https://github.com/EduardoProfe666/Perdoname/issues/5) in [EduardoProfe666/Perdoname](https://github.com/EduardoProfe666/Perdoname)
 <!--END_SECTION:activity-->
 
 ## 💡 Featured Projects
