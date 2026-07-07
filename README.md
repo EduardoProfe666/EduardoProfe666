@@ -160,8 +160,8 @@
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#2](https://github.com/ernesg93/NaldoPro/pull/2) in [ernesg93/NaldoPro](https://github.com/ernesg93/NaldoPro)
-2. 🔒 Closed issue [#1](https://github.com/ernesg93/NaldoPro/issues/1) in [ernesg93/NaldoPro](https://github.com/ernesg93/NaldoPro)
+1. 🔒 Closed issue [#3](https://github.com/ernesg93/NaldoPro/issues/3) in [ernesg93/NaldoPro](https://github.com/ernesg93/NaldoPro)
+2. 🎉 Merged PR [#4](https://github.com/ernesg93/NaldoPro/pull/4) in [ernesg93/NaldoPro](https://github.com/ernesg93/NaldoPro)
 <!--END_SECTION:activity-->
 
 ## 💡 Featured Projects
