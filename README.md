@@ -29,6 +29,10 @@
 
 ## 🌎 Find Me
 
+<!-- NOTE: All external links use target="_blank". For extra security,
+     consider adding rel="noopener noreferrer" to each. Modern browsers
+     handle this automatically in most cases. -->
+
 <div align="center">
   <a href="https://youtube.com/@EduardoProfe666" target="_blank">
     <img src="https://img.shields.io/badge/Youtube-ED0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube">
@@ -48,6 +52,9 @@
 </div>
 
 ## 🚀 Technologies & Tools
+
+<!-- NOTE: Some img tags have both style="height:50px" and height="50".
+     Either one is sufficient; both together is harmless but redundant. -->
 
 <div align="center">
   <table>
@@ -70,6 +77,7 @@
           <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px; height: 50px;" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
           <a href="https://nextjs.org/" target="_blank"><img style="margin: 10px; height: 50px;" src="https://profilinator.rishav.dev/skills-assets/nextjs.png" alt="NextJS" height="50" /></a>  
           <a href="https://www.astro.build/" target="_blank"><img style="margin: 10px; height: 50px;" src="https://profilinator.rishav.dev/skills-assets/astro.svg" alt="Astro" height="50" /></a>  
+          <a href="https://svelte.dev/" target="_blank"><img style="margin: 10px; height: 50px;" src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/svelte.svg" alt="Svelte" height="50" /></a>
           <a href="https://jquery.com/" target="_blank"><img style="margin: 10px; height: 50px;" src="https://profilinator.rishav.dev/skills-assets/jquery.png" alt="jQuery" height="50" /></a> 
         </div>
       </td>
@@ -77,24 +85,24 @@
         <div align="center">
           <a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px; height: 50px;" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" /></a>  
           <a href="https://nodejs.org/" target="_blank"><img style="margin: 10px; height: 50px;" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" /></a>  
-          <a href="https://n8n.com/" target="_blank"><img style="margin: 10px; height: 50px;" src="https://uxwing.com/n8n-icon/" alt="n8n" height="50" /></a> 
+          <a href="https://n8n.com/" target="_blank"><img style="margin: 10px; height: 50px;" src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/n8n.svg" alt="n8n" height="50" /></a> 
           <a href="https://deno.land/" target="_blank"><img style="margin: 10px; height: 50px;" src="https://profilinator.rishav.dev/skills-assets/deno.svg" alt="Deno" height="50" /></a> 
           <a href="https://expressjs.com/" target="_blank"><img style="margin: 10px; height: 50px;" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="50" /></a> 
           <a href="https://nestjs.com/" target="_blank"><img style="margin: 10px; height: 50px;" src="https://profilinator.rishav.dev/skills-assets/nestjs.svg" alt="NestJS" height="50" /></a>  
           <a href="https://www.python.org/" target="_blank"><img style="margin: 10px; height: 50px;" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
           <a href="https://www.djangoproject.com/" target="_blank"><img style="margin: 10px; height: 50px;" src="https://profilinator.rishav.dev/skills-assets/django-original.svg" alt="Django" height="50" /></a>  
           <a href="https://flask.palletsprojects.com/" target="_blank"><img style="margin: 10px; height: 50px;" src="https://profilinator.rishav.dev/skills-assets/flask.png" alt="Flask" height="50" /></a>  
-          <a href="https://fastapi.tiangolo.com/" target="_blank"><img style="margin: 10px; height: 50px;" src="https://fastapi.tiangolo.com/img/icon-white.svg" alt="FastAPI" height="50" /></a>
+          <a href="https://fastapi.tiangolo.com/" target="_blank"><img style="margin: 10px; height: 50px;" src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/fastapi.svg" alt="FastAPI" height="50" /></a>
           <a href="https://www.java.com/" target="_blank"><img style="margin: 10px; height: 50px;" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" /></a>  
-          <a href="https://docs.spring.io/spring-framework/docs/3.0.x/reference/expressions.html#:~:text=The%20Spring%20Expression%20Language%20(SpEL,and%20basic%20string%20templating%20functionality." target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/springio-icon.svg" alt="Spring" height="50" /></a>  
+          <a href="https://spring.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/springio-icon.svg" alt="Spring" height="50" /></a>  
           <a href="https://www.cprogramming.com/" target="_blank"><img style="margin: 10px; height: 50px;" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="50" /></a>  
           <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img style="margin: 10px; height: 50px;" src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="C#" height="50" /></a>  
           <a href="https://dotnet.microsoft.com/download" target="_blank"><img style="margin: 10px; height: 50px;" src="https://profilinator.rishav.dev/skills-assets/dotnetcore.png" alt=".Net Core" height="50" /></a>    
           <a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px; height: 50px;" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" /></a>  
           <a href="https://www.postgresql.org/" target="_blank"><img style="margin: 10px; height: 50px;" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" /></a>  
           <a href="https://redis.io/" target="_blank"><img style="margin: 10px; height: 50px;" src="https://profilinator.rishav.dev/skills-assets/redis-original-wordmark.svg" alt="Redis" height="50" /></a>
-          <a href="https://min.io/" target="_blank"><img style="margin: 10px; height: 50px;" src="https://min.io/resources/img/logo/MINIO_Bird.png" alt="MinIO" height="50" /></a>
-          <a href="https://cloudinary.com/" target="_blank"><img style="margin: 10px; height: 50px;" src="https://static-00.iconduck.com/assets.00/cloudinary-icon-512x335-z2n5aue3.png" alt="Cloudinary" height="50" /></a>
+          <a href="https://min.io/" target="_blank"><img style="margin: 10px; height: 50px;" src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/minio.svg" alt="MinIO" height="50" /></a>
+          <a href="https://cloudinary.com/" target="_blank"><img style="margin: 10px; height: 50px;" src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/cloudinary.svg" alt="Cloudinary" height="50" /></a>
         </div>
       </td>
       <td>
@@ -106,7 +114,7 @@
          <a href="https://kubernetes.io/" target="_blank"><img style="margin: 10px; height: 50px;" src="https://profilinator.rishav.dev/skills-assets/kubernetes-icon.svg" alt="Kubernetes" height="50" /></a>  
          <a href="https://github.com/" target="_blank"><img style="margin: 10px; height: 50px;" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
          <a href="https://about.gitlab.com/" target="_blank"><img style="margin: 10px; height: 50px;" src="https://profilinator.rishav.dev/skills-assets/gitlab.svg" alt="GitLab" height="50" /></a>
-         <a href="https://github.com/features/actions" target="_blank"><img style="margin: 10px; height: 50px;" src="https://avatars.githubusercontent.com/u/44036562?s=400&v=4" alt="GitHub Actions" height="50" /></a>
+         <a href="https://github.com/features/actions" target="_blank"><img style="margin: 10px; height: 50px;" src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/githubactions.svg" alt="GitHub Actions" height="50" /></a>
         </div>
       </td>
     </tr>
@@ -140,6 +148,10 @@
 
 ## 🏆 Achievements & Trophies
 
+<!-- NOTE: The trophy service (github-profile-trophy.vercel.app) is a
+     third-party service and may occasionally be unavailable or rate-limited.
+     If the image doesn't load, it's a service issue, not the repo. -->
+
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=EduardoProfe666&theme=tokyonight&margin-w=3" alt="Trophies">
 </div>
@@ -148,8 +160,8 @@
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#5](https://github.com/EduardoProfe666/Perdoname/issues/5#issuecomment-4130336711) in [EduardoProfe666/Perdoname](https://github.com/EduardoProfe666/Perdoname)
-2. 🔒 Closed issue [#5](https://github.com/EduardoProfe666/Perdoname/issues/5) in [EduardoProfe666/Perdoname](https://github.com/EduardoProfe666/Perdoname)
+1. 🔒 Closed issue [#3](https://github.com/ernesg93/NaldoPro/issues/3) in [ernesg93/NaldoPro](https://github.com/ernesg93/NaldoPro)
+2. 🎉 Merged PR [#4](https://github.com/ernesg93/NaldoPro/pull/4) in [ernesg93/NaldoPro](https://github.com/ernesg93/NaldoPro)
 <!--END_SECTION:activity-->
 
 ## 💡 Featured Projects
@@ -253,7 +265,8 @@
         </a>
       </td>
     </tr>
-          <td align="center">
+    <tr>
+      <td align="center">
         <a href="https://github.com/EduardoProfe666/Proyecto-Api-Personalizada">
           <img src="https://github-readme-stats.vercel.app/api/pin/?username=EduardoProfe666&repo=Proyecto-Api-Personalizada&theme=tokyonight" alt="Custom API Project" />
         </a>
@@ -264,7 +277,8 @@
         </a>
       </td>
     </tr>
-          <td align="center">
+    <tr>
+      <td align="center">
         <a href="https://github.com/EduardoProfe666/PyImageEditor">
           <img src="https://github-readme-stats.vercel.app/api/pin/?username=EduardoProfe666&repo=PyImageEditor&theme=tokyonight" alt="PyImageEditor" />
         </a>
@@ -275,13 +289,13 @@
         </a>
       </td>
     </tr>
-    </tr>
-        <td align="center">
+    <tr>
+      <td align="center">
         <a href="https://github.com/EduardoProfe666/Wifi-Repair">
           <img src="https://github-readme-stats.vercel.app/api/pin/?username=EduardoProfe666&repo=Wifi-Repair&theme=tokyonight" alt="WiFi Repair" />
         </a>
       </td>
-       <td align="center">
+      <td align="center">
         <a href="https://github.com/EduardoProfe666/Look-And-Feels">
           <img src="https://github-readme-stats.vercel.app/api/pin/?username=EduardoProfe666&repo=Look-And-Feels&theme=tokyonight" alt="Look And Feels" />
         </a>
@@ -417,5 +431,5 @@
 <img width="100%" src="https://raw.githubusercontent.com/EduardoProfe666/EduardoProfe666/output/snake.svg" alt="Snake animation" />
 
 <div align="center" width="100%">
-    <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=timeGradient&text=EduardoProfe666🎩&section=footer&reversal=true&textBg=false&animation=twinkling&stroke=000000&strokeWidth=2&fontAlign=50&fontAlignY=65&fontSize=55" alt="Footer"/>
+    <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=timeGradient&text=EduardoProfe666%F0%9F%8E%A9&section=footer&reversal=true&textBg=false&animation=twinkling&stroke=000000&strokeWidth=2&fontAlign=50&fontAlignY=65&fontSize=55" alt="Footer"/>
 </div>
