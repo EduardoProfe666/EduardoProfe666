@@ -233,8 +233,6 @@
   <img width="100%" src="https://raw.githubusercontent.com/EduardoProfe666/EduardoProfe666/output/snake.svg" alt="Contribution snake animation" />
 </picture>
 
-<img width="100%" src="https://raw.githubusercontent.com/EduardoProfe666/EduardoProfe666/output/snake.svg" alt="Contribution snake animation" />
-
 <div align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&color=timeGradient&text=EduardoProfe666%F0%9F%8E%A9&section=footer&reversal=true&textBg=false&animation=twinkling&stroke=000000&strokeWidth=2&fontAlign=50&fontAlignY=70&fontSize=50" alt="Footer" />
 </div>
