@@ -1,8 +1,12 @@
 name: Github Activity
+
 on:
   schedule:
-    - cron: "*/60 * * * *"
+    # Every six hours. Hourly was 24 commits a day to this repo for a list that
+    # rarely changes that fast.
+    - cron: "0 */6 * * *"
   workflow_dispatch:
+
 jobs:
   build:
     name: Update this repo's README with recent activity
@@ -11,10 +15,10 @@ jobs:
       contents: write
 
     steps:
-      - uses: actions/checkout@v3
+      - uses: actions/checkout@v5
       - uses: jamesgeorge007/github-activity-readme@master
         env:
-          GITHUB_TOKEN: ${{ secrets.SECRET }}
+          GITHUB_TOKEN: ${{ secrets.SECRET || secrets.GITHUB_TOKEN }}
         with:
-          MAX_LINES: 15
+          MAX_LINES: 10
           COMMIT_NAME: GitHub Activity Readme

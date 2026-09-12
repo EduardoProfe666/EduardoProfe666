@@ -1,148 +1,218 @@
 <div align="center">
-    <img src="assets/banner.png" alt="Banner" width="100%"/>
-    <br/>
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Charm&size=22&duration=2500&pause=1000&color=6BE68EA0&center=true&vCenter=true&width=500&lines=Passionate+Technology+Developer+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB;Software+Engineer+%F0%9F%92%9A;Always+Learning+and+Collaborating+%F0%9F%A4%93" alt="Typing SVG" />
+  <img src="assets/banner.png" alt="Eduardo González — Fullstack Team Lead & AI Engineer" width="100%" />
+  <br/>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Charm&size=22&duration=2500&pause=1000&color=6BE68EA0&center=true&vCenter=true&width=520&lines=Fullstack%20Team%20Lead%20%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB;AI%20Engineer%20%26%20DevOps%20%F0%9F%A4%96;Always%20Learning%20and%20Building%20%F0%9F%92%9A" alt="Fullstack Team Lead · AI Engineer & DevOps · Always Learning and Building" />
   </a>
 </div>
- 
+
 ---
 
 ## 👨‍💻 About Me
 
-- 🤓 **Software Engineer** from Cujae, Havana, Cuba 💚
-- 💬 Experience in projects with **Java, Python, JavaScript/TypeScript, .NET, C**
-- 🎨 Passionate about **UI/UX** design using **Swing, Vue, Nuxt, React, Next, Svelte and Astro**
-- ⚙️ Special interest in **Backend and DevOps**, focused on robust and automated solutions
-- 🤖 Building enterprise **AI agents and chatbots** using **n8n**
-- ⚡ Love building tools that improve people's lives, especially other developers'
-- 🤝 **4 years of professional experience** as mid senior fullstack developer at:
-  - [AIKoders LLC](https://aikoders.tech)
-  - [Codes SRL](https://www.codestic.net/)
-  - [EMSI FARMA TECH](https://emsifarma.com)
-  - [Ecos Productions](https://www.ecosvideos.com)
-  - [Medialityc](https://github.com/Medialityc)
-  - [AICA+](https://www.aica.cu/)
-  - [AlsoftPro](https://www.facebook.com/p/ALsoftpro-100083052526414/)
-  - [CUJAE](https://cujae.edu.cu/)
+- 🎓 **Computer Engineer** from [CUJAE](https://cujae.edu.cu/), Havana, Cuba — graduated with **Gold Title honors** (GPA 5.0/5.0) 💚
+- 💼 Currently **Fullstack Team Lead · AI Engineer · DevOps** at [AIKoders LLC](https://aikoders.tech) (Cape Coral, Florida)
+- ⚙️ Backend-heavy: **.NET, NestJS, FastAPI, Django, Spring Boot** — Clean Architecture, CQRS, event-driven systems
+- 🎨 Frontend and mobile: **Next.js, Nuxt, Vue, React, Svelte, Astro** and **React Native + Expo**, shipped to the App Store and Google Play
+- 🤖 Building enterprise **AI agents and chatbots** with **n8n**, bridging LLMs and real business logic
+- ☁️ Hands-on DevOps: **Docker, CI/CD, AWS, DigitalOcean, Railway, Vercel**
+- 🤝 **4+ years** of professional experience at [AIKoders](https://aikoders.tech) · [Codes SRL](https://www.codestic.net/) · [EMSI FARMA TECH](https://emsifarma.com) · [Ecos Productions](https://www.ecosvideos.com) · [Medialityc](https://github.com/Medialityc) · [AICA+](https://www.aica.cu/) · [AlsoftPro](https://www.facebook.com/p/ALsoftpro-100083052526414/) · [CUJAE](https://cujae.edu.cu/)
+- 🏆 ICPC Caribbean winner (2024) · Honorable mention (2023) · 3 years competing
 - 🎯 Always seeking to improve and share knowledge.
 
 ## 🌎 Find Me
 
 <div align="center">
-  <a href="https://youtube.com/@EduardoProfe666" target="_blank">
-    <img src="https://img.shields.io/badge/Youtube-ED0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube">
+  <a href="https://eduardoprofe666.github.io">
+    <img src="https://img.shields.io/badge/Portfolio-%232C2C2C?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio" />
   </a>
-  <a href="https://codeforces.com/profile/eduardoProfe666" target="_blank">
-    <img src="https://img.shields.io/badge/Codeforces-%23456392?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces">
+  <a href="https://www.linkedin.com/in/eduardoprofe666">
+    <img src="https://img.shields.io/badge/LinkedIn-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:eduardoprofe666@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-%23D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  <a href="mailto:eduardoprofe666@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-%23D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://www.linkedin.com/in/eduardoprofe666" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  <a href="https://youtube.com/@EduardoProfe666">
+    <img src="https://img.shields.io/badge/YouTube-ED0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
   </a>
-  <a href="https://eduardoprofe666.github.io" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-%232C2C2C?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio">
+  <a href="https://t.me/eduardoProfe666">
+    <img src="https://img.shields.io/badge/Telegram-%2326A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
+  </a>
+  <a href="https://codeforces.com/profile/eduardoProfe666">
+    <img src="https://img.shields.io/badge/Codeforces-%23456392?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces" />
   </a>
 </div>
 
-## 🚀 Technologies & Tools
+## 🚀 Tech Stack
+
+<!-- skillicons.dev packs a whole row into a single request. The previous version
+     loaded ~40 separate icon files from one person's personal Vercel project. -->
 
 <div align="center">
-  <table>
-    <tr>
-      <th>Frontend</th>
-      <th>Backend</th>
-      <th>DevOps</th>
-    </tr>
-    <tr>
-      <td>
-        <div align="center">
-          <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px; height: 50px;" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
-          <a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px; height: 50px;" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
-          <a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px; height: 50px;" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
-          <a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px; height: 50px;" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" /></a>  
-          <a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px; height: 50px;" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" /></a>  
-          <a href="https://www.tailwindcss.com/" target="_blank"><img style="margin: 10px; height: 50px;" src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind CSS" height="50" /></a>  
-          <a href="https://vuejs.org/" target="_blank"><img style="margin: 10px; height: 50px;" src="https://profilinator.rishav.dev/skills-assets/vuejs-original-wordmark.svg" alt="Vue.js" height="50" /></a>  
-          <a href="https://nuxtjs.org/" target="_blank"><img style="margin: 10px; height: 50px;" src="https://profilinator.rishav.dev/skills-assets/nuxt.png" alt="Nuxt JS" height="50" /></a>  
-          <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px; height: 50px;" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
-          <a href="https://nextjs.org/" target="_blank"><img style="margin: 10px; height: 50px;" src="https://profilinator.rishav.dev/skills-assets/nextjs.png" alt="NextJS" height="50" /></a>  
-          <a href="https://www.astro.build/" target="_blank"><img style="margin: 10px; height: 50px;" src="https://profilinator.rishav.dev/skills-assets/astro.svg" alt="Astro" height="50" /></a>  
-          <a href="https://jquery.com/" target="_blank"><img style="margin: 10px; height: 50px;" src="https://profilinator.rishav.dev/skills-assets/jquery.png" alt="jQuery" height="50" /></a> 
-        </div>
-      </td>
-      <td>
-        <div align="center">
-          <a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px; height: 50px;" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" /></a>  
-          <a href="https://nodejs.org/" target="_blank"><img style="margin: 10px; height: 50px;" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" /></a>  
-          <a href="https://n8n.com/" target="_blank"><img style="margin: 10px; height: 50px;" src="https://uxwing.com/n8n-icon/" alt="n8n" height="50" /></a> 
-          <a href="https://deno.land/" target="_blank"><img style="margin: 10px; height: 50px;" src="https://profilinator.rishav.dev/skills-assets/deno.svg" alt="Deno" height="50" /></a> 
-          <a href="https://expressjs.com/" target="_blank"><img style="margin: 10px; height: 50px;" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="50" /></a> 
-          <a href="https://nestjs.com/" target="_blank"><img style="margin: 10px; height: 50px;" src="https://profilinator.rishav.dev/skills-assets/nestjs.svg" alt="NestJS" height="50" /></a>  
-          <a href="https://www.python.org/" target="_blank"><img style="margin: 10px; height: 50px;" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
-          <a href="https://www.djangoproject.com/" target="_blank"><img style="margin: 10px; height: 50px;" src="https://profilinator.rishav.dev/skills-assets/django-original.svg" alt="Django" height="50" /></a>  
-          <a href="https://flask.palletsprojects.com/" target="_blank"><img style="margin: 10px; height: 50px;" src="https://profilinator.rishav.dev/skills-assets/flask.png" alt="Flask" height="50" /></a>  
-          <a href="https://fastapi.tiangolo.com/" target="_blank"><img style="margin: 10px; height: 50px;" src="https://fastapi.tiangolo.com/img/icon-white.svg" alt="FastAPI" height="50" /></a>
-          <a href="https://www.java.com/" target="_blank"><img style="margin: 10px; height: 50px;" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" /></a>  
-          <a href="https://docs.spring.io/spring-framework/docs/3.0.x/reference/expressions.html#:~:text=The%20Spring%20Expression%20Language%20(SpEL,and%20basic%20string%20templating%20functionality." target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/springio-icon.svg" alt="Spring" height="50" /></a>  
-          <a href="https://www.cprogramming.com/" target="_blank"><img style="margin: 10px; height: 50px;" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="50" /></a>  
-          <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img style="margin: 10px; height: 50px;" src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="C#" height="50" /></a>  
-          <a href="https://dotnet.microsoft.com/download" target="_blank"><img style="margin: 10px; height: 50px;" src="https://profilinator.rishav.dev/skills-assets/dotnetcore.png" alt=".Net Core" height="50" /></a>    
-          <a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px; height: 50px;" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" /></a>  
-          <a href="https://www.postgresql.org/" target="_blank"><img style="margin: 10px; height: 50px;" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" /></a>  
-          <a href="https://redis.io/" target="_blank"><img style="margin: 10px; height: 50px;" src="https://profilinator.rishav.dev/skills-assets/redis-original-wordmark.svg" alt="Redis" height="50" /></a>
-          <a href="https://min.io/" target="_blank"><img style="margin: 10px; height: 50px;" src="https://min.io/resources/img/logo/MINIO_Bird.png" alt="MinIO" height="50" /></a>
-          <a href="https://cloudinary.com/" target="_blank"><img style="margin: 10px; height: 50px;" src="https://static-00.iconduck.com/assets.00/cloudinary-icon-512x335-z2n5aue3.png" alt="Cloudinary" height="50" /></a>
-        </div>
-      </td>
-      <td>
-        <div align="center">
-        <a href="https://www.linux.org/" target="_blank"><img style="margin: 10px; height: 50px;" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>
-        <a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px; height: 50px;" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" /></a>    
-         <a href="https://www.nginx.com/" target="_blank"><img style="margin: 10px; height: 50px;" src="https://profilinator.rishav.dev/skills-assets/nginx-original.svg" alt="Nginx" height="50" /></a>  
-        <a href="https://www.docker.com/" target="_blank"><img style="margin: 10px; height: 50px;" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" /></a>  
-         <a href="https://kubernetes.io/" target="_blank"><img style="margin: 10px; height: 50px;" src="https://profilinator.rishav.dev/skills-assets/kubernetes-icon.svg" alt="Kubernetes" height="50" /></a>  
-         <a href="https://github.com/" target="_blank"><img style="margin: 10px; height: 50px;" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
-         <a href="https://about.gitlab.com/" target="_blank"><img style="margin: 10px; height: 50px;" src="https://profilinator.rishav.dev/skills-assets/gitlab.svg" alt="GitLab" height="50" /></a>
-         <a href="https://github.com/features/actions" target="_blank"><img style="margin: 10px; height: 50px;" src="https://avatars.githubusercontent.com/u/44036562?s=400&v=4" alt="GitHub Actions" height="50" /></a>
-        </div>
-      </td>
-    </tr>
-  </table>
+
+**Languages**
+
+[![Languages](https://skillicons.dev/icons?i=ts,js,python,cs,java,c&theme=dark)](https://skillicons.dev)
+
+**Frontend**
+
+[![Frontend](https://skillicons.dev/icons?i=react,nextjs,vue,nuxtjs,angular,svelte,astro,tailwind,bootstrap,html,css&perline=11&theme=dark)](https://skillicons.dev)
+
+**Backend**
+
+[![Backend](https://skillicons.dev/icons?i=dotnet,nestjs,fastapi,django,flask,express,nodejs,deno,spring&perline=9&theme=dark)](https://skillicons.dev)
+
+**Data**
+
+[![Data](https://skillicons.dev/icons?i=postgres,mongodb,mysql,redis,sqlite,rabbitmq,prisma&perline=7&theme=dark)](https://skillicons.dev)
+
+**DevOps & Cloud**
+
+[![DevOps](https://skillicons.dev/icons?i=docker,kubernetes,nginx,linux,bash,git,githubactions,gitlab,aws,vercel,cloudflare&perline=11&theme=dark)](https://skillicons.dev)
+
+**AI, Mobile & Platforms**
+
+<img src="https://img.shields.io/badge/n8n-%23EA4B71?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n" />
+<img src="https://img.shields.io/badge/Claude-%23D97757?style=for-the-badge&logo=claude&logoColor=white" alt="Claude" />
+<img src="https://img.shields.io/badge/React%20Native-%2361DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React Native" />
+<img src="https://img.shields.io/badge/Expo-%23000020?style=for-the-badge&logo=expo&logoColor=white" alt="Expo" />
+<img src="https://img.shields.io/badge/Railway-%230B0D0E?style=for-the-badge&logo=railway&logoColor=white" alt="Railway" />
+<img src="https://img.shields.io/badge/DigitalOcean-%230080FF?style=for-the-badge&logo=digitalocean&logoColor=white" alt="DigitalOcean" />
+<img src="https://img.shields.io/badge/MinIO-%23C72E49?style=for-the-badge&logo=minio&logoColor=white" alt="MinIO" />
+
 </div>
 
-## 📊 GitHub Statistics
+## 📊 GitHub Stats
+
+<!-- Every card here was checked by fetching it and reading the SVG, not just its
+     status code: `github-readme-stats` returns HTTP 200 with a "Something went
+     wrong" card baked in, which is how the old README looked fine to a link
+     checker while rendering errors on the page. -->
 
 <div align="center">
-  <table border="none" align="center">
-    <tr>
-      <td align="center" style="padding: 10px;">
-        <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=EduardoProfe666&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" alt="Statistics" />
-      </td>
-      <td align="center" style="padding: 10px;">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=EduardoProfe666&theme=tokyonight&hide_border=true" alt="Streak" />
-      </td>
-    </tr>
-    <tr>
-      <td colspan="2" align="center" style="padding: 10px;">
-        <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=EduardoProfe666&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Languages" />
-      </td>
-    </tr>
-    <tr>
-      <td colspan="2" align="center" style="padding: 10px;">
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=EduardoProfe666&theme=tokyonight&hide_border=true" alt="Profile Summary" />
-      </td>
-    </tr>
-  </table>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=EduardoProfe666&theme=tokyonight" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=EduardoProfe666&theme=default" alt="Profile summary" />
+  </picture>
 </div>
-
-## 🏆 Achievements & Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=EduardoProfe666&theme=tokyonight&margin-w=3" alt="Trophies">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=EduardoProfe666&theme=tokyonight&hide_border=true" />
+    <img src="https://streak-stats.demolab.com/?user=EduardoProfe666&theme=default&hide_border=true" alt="Contribution streak" height="200" />
+  </picture>
 </div>
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=EduardoProfe666&theme=tokyonight" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=EduardoProfe666&theme=default" alt="Repositories per language" height="200" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=EduardoProfe666&theme=tokyonight" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=EduardoProfe666&theme=default" alt="Most used languages by commits" height="200" />
+  </picture>
+</div>
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=EduardoProfe666&theme=tokyonight" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=EduardoProfe666&theme=default" alt="Contribution stats" height="200" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=EduardoProfe666&utcOffset=-5&theme=tokyonight" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=EduardoProfe666&utcOffset=-5&theme=default" alt="Productive time of day" height="200" />
+  </picture>
+</div>
+
+## 💡 Featured Projects
+
+> [!NOTE]
+> The personal projects I had the most fun building. Star counts are live.
+
+<!-- These used to be `github-readme-stats` pin cards. Both the public instance
+     and the mirror this profile pointed at now answer with an error card, so the
+     projects are listed as text with live shields.io badges instead — no single
+     third-party renderer left to go down. -->
+
+| Project | What it is | |
+| :--- | :--- | :--- |
+| [**UNE Unwrapped**](https://github.com/EduardoProfe666/une-unwrapped-habana) · [demo](https://une-unwrapped.vercel.app) | Statistics and visualizations for the public Telegram channel that announces Havana's power outages. | ![stars](https://img.shields.io/github/stars/EduardoProfe666/une-unwrapped-habana?style=flat-square&labelColor=0D1117&color=6BE68E&label=%E2%98%85) ![lang](https://img.shields.io/github/languages/top/EduardoProfe666/une-unwrapped-habana?style=flat-square&labelColor=0D1117&color=2F81F7) |
+| [**Custom Java API**](https://github.com/EduardoProfe666/Proyecto-Api-Personalizada) · [demo](https://eduardoprofe666.github.io/api-personalizada-wiki-vuepress/) | A Java library of reusable Swing components, logic helpers and utilities, fully documented. | ![stars](https://img.shields.io/github/stars/EduardoProfe666/Proyecto-Api-Personalizada?style=flat-square&labelColor=0D1117&color=6BE68E&label=%E2%98%85) ![lang](https://img.shields.io/github/languages/top/EduardoProfe666/Proyecto-Api-Personalizada?style=flat-square&labelColor=0D1117&color=2F81F7) |
+| [**Perdóname**](https://github.com/EduardoProfe666/Perdoname) | A small, very Cuban apology generator for the bros who need forgiveness. | ![stars](https://img.shields.io/github/stars/EduardoProfe666/Perdoname?style=flat-square&labelColor=0D1117&color=6BE68E&label=%E2%98%85) ![lang](https://img.shields.io/github/languages/top/EduardoProfe666/Perdoname?style=flat-square&labelColor=0D1117&color=2F81F7) |
+| [**Sudoku Play**](https://github.com/EduardoProfe666/sudoku-play) · [demo](https://sudoku-play.onrender.com) | A Sudoku game shipped as an installable PWA that works fully offline. | ![stars](https://img.shields.io/github/stars/EduardoProfe666/sudoku-play?style=flat-square&labelColor=0D1117&color=6BE68E&label=%E2%98%85) ![lang](https://img.shields.io/github/languages/top/EduardoProfe666/sudoku-play?style=flat-square&labelColor=0D1117&color=2F81F7) |
+| [**Portfolio**](https://github.com/EduardoProfe666/eduardoprofe666.github.io) · [demo](https://eduardoprofe666.github.io) | My personal site: Next.js, statically exported to GitHub Pages in five languages. | ![stars](https://img.shields.io/github/stars/EduardoProfe666/eduardoprofe666.github.io?style=flat-square&labelColor=0D1117&color=6BE68E&label=%E2%98%85) ![lang](https://img.shields.io/github/languages/top/EduardoProfe666/eduardoprofe666.github.io?style=flat-square&labelColor=0D1117&color=2F81F7) |
+| [**Anime Download Bot**](https://github.com/EduardoProfe666/Descargar-Anime-Free-Bot) · [telegram](https://t.me/descargar_anime_free_bot) | A Telegram bot that finds and delivers Spanish-subtitled anime episodes. | ![stars](https://img.shields.io/github/stars/EduardoProfe666/Descargar-Anime-Free-Bot?style=flat-square&labelColor=0D1117&color=6BE68E&label=%E2%98%85) ![lang](https://img.shields.io/github/languages/top/EduardoProfe666/Descargar-Anime-Free-Bot?style=flat-square&labelColor=0D1117&color=2F81F7) |
+
+## 🗂️ More Projects
+
+> [!TIP]
+> Thirty-odd more repos, grouped and collapsed. Click to expand.
+
+<details>
+<summary><b>🛠️ Developer tools</b></summary>
+
+| Repo | What it is | Stack |
+| :--- | :--- | :--- |
+| [`DS-TCP1-Obsidian`](https://github.com/EduardoProfe666/DS-TCP1-Obsidian) | Obsidian Vault Notes for DS TCP1 | — |
+| [`mn-api`](https://github.com/EduardoProfe666/mn-api) | Paquete de Python con implementaciones de métodos numéricos | Python |
+| [`PyImageEditor`](https://github.com/EduardoProfe666/PyImageEditor) | Editor simple de imágenes en Python, usando CustomTkinter y PIL. | Python |
+| [`Matematica-Numerica-Google-Colab`](https://github.com/EduardoProfe666/Matematica-Numerica-Google-Colab) | Proyecto de MN que contiene jupyter notebooks con implementaciones de los algoritmos más importantes | Jupyter Notebook |
+| [`Wifi-Repair`](https://github.com/EduardoProfe666/Wifi-Repair) | Script de Batch para poder reparar la wifi de una PC/laptop📶 | Batchfile |
+| [`Look-And-Feels`](https://github.com/EduardoProfe666/Look-And-Feels) | Look and Feels usados por la Api | — |
+| [`teoria-politica-web`](https://github.com/EduardoProfe666/teoria-politica-web) | Proyecto de solución web informacional de Teoría Política en VuePress | — |
+
+</details>
+
+<details>
+<summary><b>🎮 Games & experiments</b></summary>
+
+| Repo | What it is | Stack |
+| :--- | :--- | :--- |
+| [`la-botellita`](https://github.com/EduardoProfe666/la-botellita) | Juego de la botellita moderno y personalizable | TypeScript |
+| [`whack-a-mole-brutalist`](https://github.com/EduardoProfe666/whack-a-mole-brutalist) | Whack-a-Mole game with Brutalism Design | Vue |
+| [`cerito-cruz-vue`](https://github.com/EduardoProfe666/cerito-cruz-vue) | Tic Tac Toe Game made with Vue | TypeScript |
+| [`Proyecto-Tinger-y-el-Estambre`](https://github.com/EduardoProfe666/Proyecto-Tinger-y-el-Estambre) | Juego de plataforma sobre un gato y su estambre hecho en Python con la biblioteca Pygame | Python |
+| [`Factorial-App`](https://github.com/EduardoProfe666/Factorial-App) | Over-Engineered Factorial App made in Golang | Go |
+| [`birthday-statistics`](https://github.com/EduardoProfe666/birthday-statistics) | App to get Birthday Statistics | Svelte |
+| [`world-greetings`](https://github.com/EduardoProfe666/world-greetings) | Greetings according to its clock to every part of the World | Python |
+
+</details>
+
+<details>
+<summary><b>🧪 Templates & sandboxes</b></summary>
+
+| Repo | What it is | Stack |
+| :--- | :--- | :--- |
+| [`fastapi-calculadora`](https://github.com/EduardoProfe666/fastapi-calculadora) | Api de Calculadora Simple con FastApi desplegado en render.com \| Fastapi-Calculator | JavaScript |
+| [`dotnet-todo`](https://github.com/EduardoProfe666/dotnet-todo) | Api RestFul en Asp.Net Core 8 sobre un sistema de ToDos | C# |
+| [`cats-management-api`](https://github.com/EduardoProfe666/cats-management-api) | Cat Managemente Api Template Example | TypeScript |
+| [`pw-bot`](https://github.com/EduardoProfe666/pw-bot) | PW G31 Telegram Bot | TypeScript |
+| [`pw-ui`](https://github.com/EduardoProfe666/pw-ui) | Front de PW System | Vue |
+| [`vue-proyectos`](https://github.com/EduardoProfe666/vue-proyectos) | Un conjunto de pequeños proyectos con conceptos fundamentales de Vue Vanilla | Vue |
+| [`vue-quotes`](https://github.com/EduardoProfe666/vue-quotes) | Fully customizable app to show quotes | Vue |
+| [`choco-frases-api`](https://github.com/EduardoProfe666/choco-frases-api) | Api de Frases de Chocolate MC | TypeScript |
+| [`choco-frases-ui`](https://github.com/EduardoProfe666/choco-frases-ui) | UI de Frases de Chocolate MC | Vue |
+
+</details>
+
+<details>
+<summary><b>📚 Academic work at CUJAE</b></summary>
+
+| Repo | What it is | Stack |
+| :--- | :--- | :--- |
+| [`AicaDocsApi`](https://github.com/EduardoProfe666/AicaDocsApi) | Proyecto de Prácticas I de Sistema de Documentación de Aica en Asp.Net 8.0 | C# |
+| [`AicaDocsUI`](https://github.com/EduardoProfe666/AicaDocsUI) | Prueba Visual de la Api AicaDocs | C# |
+| [`bases-de-datos`](https://github.com/EduardoProfe666/bases-de-datos) | CONEST. Proyecto de aplicación de control docente de Bases de Datos en Java Swing y PostgreSQL | Java |
+| [`Cujae13-Proyecto`](https://github.com/EduardoProfe666/Cujae13-Proyecto) | Proyecto de 3er semestre de ED de Ingeniería Informática sobre un sistema para la administración de los Juegos Deportivos "13 de Marzo" | Java |
+| [`Proyecto-Dpoo`](https://github.com/EduardoProfe666/Proyecto-Dpoo) | Proyecto de 2do Semestre de DPOO de Ingeniería Informática sobre un sistema para la administración de un Consultorio Médico de la Familia | Java |
+| [`Proyecto-Final-C`](https://github.com/EduardoProfe666/Proyecto-Final-C) | Proyecto de 1er Semestre de lP de Ingeniería Informática sobre un sistema para la administración de los Juegos Deportivos por la FEU | C |
+| [`Tarea-2-JS`](https://github.com/EduardoProfe666/Tarea-2-JS) | Proyecto de la Tarea 2 de Optativa I de JavaScript sobre la gestión de una librería usando el framework progresivo Vue.js para el frontend y JavaScript para el backend | JavaScript |
+| [`tarea-final-js`](https://github.com/EduardoProfe666/tarea-final-js) | Proyecto de la Tarea Final de Optativa I de JavaScript de un Gestor de Libros | Vue |
+| [`primeros-portfolios-g31`](https://github.com/EduardoProfe666/primeros-portfolios-g31) | Los primeros portfolios de mis niños con HTML/CSS/JS | HTML |
+
+</details>
+
 
 ## ⚡ Recent Activity
 
@@ -152,270 +222,19 @@
 2. 🔒 Closed issue [#5](https://github.com/EduardoProfe666/Perdoname/issues/5) in [EduardoProfe666/Perdoname](https://github.com/EduardoProfe666/Perdoname)
 <!--END_SECTION:activity-->
 
-## 💡 Featured Projects
-
-> [!NOTE]
-> In this section you'll find the personal projects I had the most fun with.
+---
 
 <div align="center">
-  <table>
-    <tr>
-      <td align="center">
-        <a href="https://github.com/EduardoProfe666/cerito-cruz-vue">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=EduardoProfe666&repo=cerito-cruz-vue&theme=tokyonight" alt="Cerito Cruz Vue" />
-        </a>
-      </td>
-      <td align="center">
-        <a href="https://github.com/EduardoProfe666/sudoku-play">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=EduardoProfe666&repo=sudoku-play&theme=tokyonight" alt="Sudoku Play" />
-        </a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">
-        <a href="https://github.com/EduardoProfe666/une-unwrapped-habana">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=EduardoProfe666&repo=une-unwrapped-habana&theme=tokyonight" alt="UNE Unwrapped" />
-        </a>
-      </td>
-      <td align="center">
-        <a href="https://github.com/EduardoProfe666/password-generator">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=EduardoProfe666&repo=password-generator&theme=tokyonight" alt="Password Generator" />
-        </a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">
-        <a href="https://github.com/EduardoProfe666/weather-app">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=EduardoProfe666&repo=weather-app&theme=tokyonight" alt="Weather App" />
-        </a>
-      </td>
-      <td align="center">
-        <a href="https://github.com/EduardoProfe666/whack-a-mole-brutalist">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=EduardoProfe666&repo=whack-a-mole-brutalist&theme=tokyonight" alt="Whack a mole Brutalist" />
-        </a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">
-        <a href="https://github.com/EduardoProfe666/Descargar-Anime-Free-Bot">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=EduardoProfe666&repo=Descargar-Anime-Free-Bot&theme=tokyonight" alt="Anime Free Bot" />
-        </a>
-      </td>
-      <td align="center">
-        <a href="https://github.com/EduardoProfe666/Perdoname">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=EduardoProfe666&repo=Perdoname&theme=tokyonight" alt="Perdoname" />
-        </a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">
-        <a href="https://github.com/EduardoProfe666/Proyecto-Tinger-y-el-Estambre">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=EduardoProfe666&repo=Proyecto-Tinger-y-el-Estambre&theme=tokyonight" alt="Tinger and Estambre" />
-        </a>
-      </td>
-      <td align="center">
-        <a href="https://github.com/EduardoProfe666/la-botellita">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=EduardoProfe666&repo=la-botellita&theme=tokyonight" alt="La botellita" />
-        </a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">
-        <a href="https://github.com/EduardoProfe666/eduardoprofe666.github.io">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=EduardoProfe666&repo=eduardoprofe666.github.io&theme=tokyonight" alt="Portfolio Website" />
-        </a>
-      </td>
-       <td align="center">
-        <a href="https://github.com/EduardoProfe666/Factorial-App">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=EduardoProfe666&repo=Factorial-App&theme=tokyonight" alt="Factorial App" />
-        </a>
-      </td>
-    </tr>
-  </table>
+  <img src="https://komarev.com/ghpvc/?username=EduardoProfe666&style=for-the-badge&color=6BE68E&label=PROFILE+VIEWS" alt="Profile views" />
 </div>
 
-## 🛠️ Developer Tools
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/EduardoProfe666/EduardoProfe666/output/snake-light.svg" />
+  <img width="100%" src="https://raw.githubusercontent.com/EduardoProfe666/EduardoProfe666/output/snake.svg" alt="Contribution snake animation" />
+</picture>
 
-> [!NOTE]
-> Here I share the tools I've developed to help other developers.
+<img width="100%" src="https://raw.githubusercontent.com/EduardoProfe666/EduardoProfe666/output/snake.svg" alt="Contribution snake animation" />
 
 <div align="center">
-  <table>
-    <tr>
-      <td align="center">
-        <a href="https://github.com/EduardoProfe666/DS-TCP1-Obsidian">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=EduardoProfe666&repo=DS-TCP1-Obsidian&theme=tokyonight" alt="Obsidian Plugin" />
-        </a>
-      </td>
-      <td align="center">
-        <a href="https://github.com/EduardoProfe666/Matematica-Numerica-Google-Colab">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=EduardoProfe666&repo=Matematica-Numerica-Google-Colab&theme=tokyonight" alt="Numerical Math Colab" />
-        </a>
-      </td>
-    </tr>
-          <td align="center">
-        <a href="https://github.com/EduardoProfe666/Proyecto-Api-Personalizada">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=EduardoProfe666&repo=Proyecto-Api-Personalizada&theme=tokyonight" alt="Custom API Project" />
-        </a>
-      </td>
-      <td align="center">
-        <a href="https://github.com/EduardoProfe666/mn-api">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=EduardoProfe666&repo=mn-api&theme=tokyonight" alt="MN API" />
-        </a>
-      </td>
-    </tr>
-          <td align="center">
-        <a href="https://github.com/EduardoProfe666/PyImageEditor">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=EduardoProfe666&repo=PyImageEditor&theme=tokyonight" alt="PyImageEditor" />
-        </a>
-      </td>
-      <td align="center">
-        <a href="https://github.com/EduardoProfe666/teoria-politica-web">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=EduardoProfe666&repo=teoria-politica-web&theme=tokyonight" alt="Political Theory Web" />
-        </a>
-      </td>
-    </tr>
-    </tr>
-        <td align="center">
-        <a href="https://github.com/EduardoProfe666/Wifi-Repair">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=EduardoProfe666&repo=Wifi-Repair&theme=tokyonight" alt="WiFi Repair" />
-        </a>
-      </td>
-       <td align="center">
-        <a href="https://github.com/EduardoProfe666/Look-And-Feels">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=EduardoProfe666&repo=Look-And-Feels&theme=tokyonight" alt="Look And Feels" />
-        </a>
-      </td>
-    </tr>
-  </table>
-</div>
-
-## 🧪 Test Projects & Templates
-
-> [!NOTE]
-> This section includes experimental projects and templates I've created as a foundation for other developers.
-
-<div align="center">
-  <table>
-    <tr>
-      <td align="center">
-        <a href="https://github.com/EduardoProfe666/fastapi-calculadora">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=EduardoProfe666&repo=fastapi-calculadora&theme=tokyonight" alt="FastAPI Calculator" />
-        </a>
-      </td>
-      <td align="center">
-        <a href="https://github.com/EduardoProfe666/dotnet-todo">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=EduardoProfe666&repo=dotnet-todo&theme=tokyonight" alt="DotNet Todo" />
-        </a>
-      </td>
-    </tr>
-     <tr>
-      <td align="center">
-        <a href="https://github.com/EduardoProfe666/pw-bot">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=EduardoProfe666&repo=pw-bot&theme=tokyonight" alt="PW Bot" />
-        </a>
-      </td>
-      <td align="center">
-        <a href="https://github.com/EduardoProfe666/pw-ui">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=EduardoProfe666&repo=pw-ui&theme=tokyonight" alt="PW UI" />
-        </a>
-      </td>
-        </tr>
-     <tr>
-      <td align="center">
-        <a href="https://github.com/EduardoProfe666/vue-proyectos">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=EduardoProfe666&repo=vue-proyectos&theme=tokyonight" alt="Vue Projects" />
-        </a>
-      </td>
-          <td align="center">
-        <a href="https://github.com/EduardoProfe666/vue-quotes">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=EduardoProfe666&repo=vue-quotes&theme=tokyonight" alt="Vue Quotes" />
-        </a>
-      </td>
-    </tr>
-  </table>
-</div>
-
-## 📚 Academic Projects
-
-> [!NOTE]
-> This section includes projects completed during my academic journey at Cujae.
-
-<div align="center">
-  <table>
-    <tr>
-      <td align="center">
-        <a href="https://github.com/EduardoProfe666/AicaDocsApi">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=EduardoProfe666&repo=AicaDocsApi&theme=tokyonight" alt="AicaDocs API" />
-        </a>
-      </td>
-      <td align="center">
-        <a href="https://github.com/EduardoProfe666/AicaDocsUI">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=EduardoProfe666&repo=AicaDocsUI&theme=tokyonight" alt="AicaDocs UI" />
-        </a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">
-        <a href="https://github.com/EduardoProfe666/Tarea-2-JS">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=EduardoProfe666&repo=Tarea-2-JS&theme=tokyonight" alt="Task 2 JS" />
-        </a>
-      </td>
-      <td align="center">
-        <a href="https://github.com/EduardoProfe666/Matematica-Numerica-Google-Colab">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=EduardoProfe666&repo=Matematica-Numerica-Google-Colab&theme=tokyonight" alt="Numerical Math Colab" />
-        </a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">
-        <a href="https://github.com/EduardoProfe666/tarea-final-js">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=EduardoProfe666&repo=tarea-final-js&theme=tokyonight" alt="Final Task JS" />
-        </a>
-      </td>
-      <td align="center">
-        <a href="https://github.com/EduardoProfe666/bases-de-datos">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=EduardoProfe666&repo=bases-de-datos&theme=tokyonight" alt="Database Basics" />
-        </a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">
-        <a href="https://github.com/EduardoProfe666/Cujae13-Proyecto">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=EduardoProfe666&repo=Cujae13-Proyecto&theme=tokyonight" alt="Cujae13 Project" />
-        </a>
-      </td>
-      <td align="center">
-        <a href="https://github.com/EduardoProfe666/Proyecto-Dpoo">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=EduardoProfe666&repo=Proyecto-Dpoo&theme=tokyonight" alt="DPOO Project" />
-        </a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">
-        <a href="https://github.com/EduardoProfe666/Proyecto-Final-C">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=EduardoProfe666&repo=Proyecto-Final-C&theme=tokyonight" alt="Final Project C" />
-        </a>
-      </td>
-      <td align="center">
-        <a href="https://github.com/EduardoProfe666/primeros-portfolios-g31">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=EduardoProfe666&repo=primeros-portfolios-g31&theme=tokyonight" alt="First Portfolios G31" />
-        </a>
-      </td>
-    </tr>
-  </table>
-</div>
-
-## 📈 Profile Views
-
-<div align="center">
-  <img src="https://profile-counter.deno.dev/EduardoProfe666/count.svg" alt="Visit Counter">
-</div>
-
-<br clear="both">
-
-<img width="100%" src="https://raw.githubusercontent.com/EduardoProfe666/EduardoProfe666/output/snake.svg" alt="Snake animation" />
-
-<div align="center" width="100%">
-    <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=timeGradient&text=EduardoProfe666🎩&section=footer&reversal=true&textBg=false&animation=twinkling&stroke=000000&strokeWidth=2&fontAlign=50&fontAlignY=65&fontSize=55" alt="Footer"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&color=timeGradient&text=EduardoProfe666%F0%9F%8E%A9&section=footer&reversal=true&textBg=false&animation=twinkling&stroke=000000&strokeWidth=2&fontAlign=50&fontAlignY=70&fontSize=50" alt="Footer" />
 </div>
