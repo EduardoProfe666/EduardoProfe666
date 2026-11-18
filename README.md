@@ -218,8 +218,8 @@
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#5](https://github.com/EduardoProfe666/Perdoname/issues/5#issuecomment-4130336711) in [EduardoProfe666/Perdoname](https://github.com/EduardoProfe666/Perdoname)
-2. 🔒 Closed issue [#5](https://github.com/EduardoProfe666/Perdoname/issues/5) in [EduardoProfe666/Perdoname](https://github.com/EduardoProfe666/Perdoname)
+1. 🎉 Merged PR [#2](https://github.com/AIKoders/ipac-ecommerce-frontend/pull/2) in [AIKoders/ipac-ecommerce-frontend](https://github.com/AIKoders/ipac-ecommerce-frontend)
+2. 💪 Opened PR [#2](https://github.com/AIKoders/ipac-ecommerce-frontend/pull/2) in [AIKoders/ipac-ecommerce-frontend](https://github.com/AIKoders/ipac-ecommerce-frontend)
 <!--END_SECTION:activity-->
 
 ---
