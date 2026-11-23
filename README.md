@@ -160,8 +160,8 @@
 
 <!--START_SECTION:activity-->
 
-1. 🔒 Closed issue [#65](https://github.com/ernesg93/CYNDY-app/issues/65) in [ernesg93/CYNDY-app](https://github.com/ernesg93/CYNDY-app)
-2. 🗣 Commented on [#65](https://github.com/ernesg93/CYNDY-app/issues/65#issuecomment-6990596960) in [ernesg93/CYNDY-app](https://github.com/ernesg93/CYNDY-app)
+1. 🎉 Merged PR [#75](https://github.com/ernesg93/CYNDY-app/pull/75) in [ernesg93/CYNDY-app](https://github.com/ernesg93/CYNDY-app)
+2. 💪 Opened PR [#75](https://github.com/ernesg93/CYNDY-app/pull/75) in [ernesg93/CYNDY-app](https://github.com/ernesg93/CYNDY-app)
 <!--END_SECTION:activity-->
 
 ## 💡 Featured Projects
